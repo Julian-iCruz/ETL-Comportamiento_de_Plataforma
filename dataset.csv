@@ -1,0 +1,812 @@
+id deudor,Fecha carga DL,operation_id,amount,payment_method,anual_sales_volume,mean_time,invoice_mean_val,entity_type,relationship_years,creation_date,payment_date,city,industry,result
+1,2021-06-04,1,18714.0,'cheque',391000,90 días,Entre USD 5000 y USD 20000,persona natural,5,2021-05-25,2021-05-25,,9.0,Aceptada
+2,2022-08-02,2,1596.0,'cheque',33000,60 días,Menos de USD 1000,persona jurídica,7,2022-07-23,2022-12-02,11.0,12.0,Aceptada
+2,2022-08-28,3,19152.0,'cheque',409000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-08-18,2022-12-16,12.0,10.0,Aceptada
+4,2022-07-16,4,6354.0,'cheque',68000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-07-06,2022-09-29,17.0,5.0,Aceptada
+5,2022-05-27,5,9729.72,'cheque',214000,120 días,Entre USD 20000 y USD 100000,persona natural,3,2022-05-17,2022-08-30,7.0,15.0,Aceptada
+6,2022-01-20,6,22197.0,'cheque',262000,60 días,Más de USD 100000,persona jurídica,7,2022-01-10,2022-01-25,5.0,3.0,Rechazada
+7,2022-05-13,7,3598.0,'transferencia bancaria',68000,60 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-05-03,2022-05-03,2.0,,Aceptada
+5,2022-06-03,8,28182.0,'cheque',191000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-05-24,2022-06-01,2.0,4.0,Aceptada
+1,2022-04-17,9,17337.88,'transferencia bancaria',426000,120 días,Entre USD 1000 y USD 5000,persona natural,1,2022-04-07,2022-07-20,8.0,13.0,Rechazada
+10,2022-01-26,10,39367.0,'transferencia bancaria',635000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-01-16,2022-02-25,4.0,10.0,Aceptada
+11,2022-01-04,11,729.0,'transferencia bancaria',12000,120 días,Menos de USD 1000,persona jurídica,8,2021-12-25,2022-06-23,15.0,12.0,Aceptada
+12,2022-05-24,12,373.13,'transferencia bancaria',4000,120 días,Menos de USD 1000,persona jurídica,5,2022-05-14,2022-07-28,15.0,5.0,Aceptada
+13,2022-08-26,13,23381.14,'cheque',168000,120 días,Más de USD 100000,persona jurídica,8,2022-08-16,2022-08-28,4.0,3.0,Aceptada
+14,2022-07-23,14,15491.7,'cheque',372000,120 días,Entre USD 1000 y USD 5000,persona natural,2,2022-07-13,2022-08-15,3.0,11.0,Aceptada
+15,2022-06-23,15,18831.54,'cheque',474000,60 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-06-13,2023-04-08,23.0,13.0,Rechazada
+6,2022-08-03,16,39964.0,'cheque',286000,30 días,Más de USD 100000,persona natural,1,2022-07-24,2022-11-15,19.0,6.0,Aceptada
+17,2021-06-26,17,6666.29,'cheque',177000,30 días,Entre USD 5000 y USD 20000,persona jurídica,7,2021-06-16,2021-06-16,,2.0,Aceptada
+18,2022-02-20,18,5849.0,'transferencia bancaria',36000,60 días,Entre USD 1000 y USD 5000,persona jurídica,7,2022-02-10,2022-04-21,10.0,7.0,Aceptada
+19,2022-06-17,19,34809.79,'cheque',281000,120 días,Más de USD 100000,persona natural,3,2022-06-07,2022-09-23,6.0,18.0,Rechazada
+5,2022-02-08,20,13137.0,'transferencia bancaria',318000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-01-29,2022-04-30,13.0,7.0,Aceptada
+21,2022-01-01,21,6028.8,'transferencia bancaria',87000,120 días,Entre USD 1000 y USD 5000,persona natural,5,2021-12-22,2022-03-10,6.0,13.0,Aceptada
+22,2022-06-14,22,9464.63,'transferencia bancaria',122000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-06-04,2023-02-11,18.0,14.0,Aceptada
+23,2022-08-31,23,34461.0,'cheque',541000,30 días,Más de USD 100000,persona jurídica,8,2022-08-21,2023-03-29,20.0,11.0,Aceptada
+24,2022-05-02,24,8075.0,'cheque',174000,90 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-04-22,2022-04-30,1.0,8.0,Aceptada
+25,2021-06-04,25,8019.0,'cheque',80000,30 días,Entre USD 1000 y USD 5000,persona natural,5,2021-05-25,2021-07-08,11.0,4.0,Aceptada
+26,2022-07-01,26,36079.82,'transferencia bancaria',549000,60 días,Más de USD 100000,persona jurídica,8,2022-06-21,2022-08-02,7.0,6.0,Rechazada
+27,2022-04-25,27,26488.0,'transferencia bancaria',399000,90 días,Más de USD 100000,persona jurídica,9,2022-04-15,2022-08-13,12.0,10.0,Aceptada
+28,2022-02-16,28,89000.14,'cheque',775000,30 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-02-06,2022-02-22,16.0,1.0,Aceptada
+5,2022-07-25,29,36370.0,'transferencia bancaria',943000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-07-15,2023-03-03,21.0,11.0,Rechazada
+30,2021-06-27,30,30352.0,'cheque',207000,120 días,Entre USD 20000 y USD 100000,persona jurídica,5,2021-06-17,2021-09-05,8.0,10.0,Aceptada
+31,2022-07-28,31,10941.0,'cheque',186000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-07-18,2023-08-13,23.0,17.0,Rechazada
+32,2022-08-05,32,7758.0,'transferencia bancaria',120000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-07-26,2022-07-26,,15.0,Aceptada
+33,2022-05-14,33,12539.73,'cheque',96000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-05-04,2022-09-01,15.0,8.0,Aceptada
+2,2022-08-06,34,20503.53,'cheque',232000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-27,2022-10-07,8.0,9.0,Aceptada
+2,2022-07-14,35,21404.0,'cheque',449000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-04,2022-09-12,7.0,10.0,Rechazada
+36,2022-02-17,36,27980.45,'transferencia bancaria',407000,90 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-02-07,2022-05-26,9.0,12.0,Aceptada
+37,2022-07-05,37,24468.0,'transferencia bancaria',284000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2022-06-25,2022-08-16,13.0,4.0,Aceptada
+38,2022-01-17,38,8358.0,'cheque',51000,60 días,Entre USD 20000 y USD 100000,persona natural,4,2022-01-07,2022-01-25,18.0,1.0,Aceptada
+39,2021-06-07,39,10742.0,'transferencia bancaria',285000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2021-05-28,2022-07-16,23.0,18.0,Aceptada
+40,2022-06-27,40,3887.68,'transferencia bancaria',94000,120 días,Entre USD 1000 y USD 5000,persona natural,3,2022-06-17,2022-06-17,22.0,,Aceptada
+7,2022-07-04,41,3777.0,'cheque',68000,120 días,Menos de USD 1000,persona jurídica,1,2022-06-24,2022-11-15,16.0,9.0,Rechazada
+42,2022-05-06,42,6200.43,'transferencia bancaria',160000,60 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-04-26,2022-05-12,1.0,16.0,Rechazada
+43,2022-07-20,43,30550.2,'transferencia bancaria',620000,90 días,Entre USD 20000 y USD 100000,persona jurídica,5,2022-07-10,2022-09-08,5.0,12.0,Aceptada
+44,2022-08-26,44,18264.92,'transferencia bancaria',341000,90 días,Entre USD 5000 y USD 20000,persona jurídica,7,2022-08-16,2023-05-15,17.0,16.0,Rechazada
+45,2022-06-07,45,20260.0,'transferencia bancaria',209000,60 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-05-28,2022-08-31,19.0,5.0,Aceptada
+46,2022-04-23,46,17650.0,'cheque',119000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-04-13,2022-05-07,4.0,6.0,Aceptada
+47,2022-06-07,47,28633.86,'cheque',346000,60 días,Más de USD 100000,persona jurídica,7,2022-05-28,2022-08-16,20.0,4.0,Aceptada
+48,2022-05-02,48,36433.34,'transferencia bancaria',491000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-04-22,2023-02-05,17.0,17.0,Aceptada
+49,2022-06-20,49,29227.0,'cheque',628000,120 días,Más de USD 100000,persona natural,5,2022-06-10,2022-06-11,1.0,1.0,Aceptada
+50,2022-08-02,50,11713.24,'transferencia bancaria',188000,60 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-07-23,2022-11-20,12.0,10.0,Aceptada
+51,2022-05-30,51,10528.2,'transferencia bancaria',93000,30 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-05-20,2022-12-26,20.0,11.0,Aceptada
+52,2022-03-07,52,31426.95,'cheque',672000,120 días,Más de USD 100000,persona jurídica,9,2022-02-25,2022-11-24,16.0,17.0,Aceptada
+53,2022-01-17,53,18520.0,'transferencia bancaria',434000,120 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-01-07,2022-03-14,11.0,6.0,Aceptada
+54,2022-07-25,54,12444.48,'transferencia bancaria',103000,60 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-07-15,2023-01-21,19.0,10.0,Rechazada
+55,2022-03-24,55,8059.0,'transferencia bancaria',50000,30 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-03-14,2022-08-01,20.0,7.0,Aceptada
+56,2022-06-17,56,1590.85,'transferencia bancaria',34000,60 días,Entre USD 1000 y USD 5000,persona jurídica,4,2022-06-07,2022-09-25,22.0,5.0,Aceptada
+57,2022-07-07,57,29887.48,'cheque',604000,120 días,Más de USD 100000,persona natural,4,2022-06-27,2022-09-19,12.0,7.0,Aceptada
+58,2022-07-18,58,2074.0,'cheque',49000,60 días,Entre USD 1000 y USD 5000,persona jurídica,7,2022-07-08,2022-11-05,15.0,8.0,Aceptada
+59,2022-03-07,59,23116.27,'cheque',563000,120 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-02-25,2022-08-31,17.0,11.0,Aceptada
+5,2021-06-27,60,35590.0,'cheque',635000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2021-06-17,2021-07-02,3.0,5.0,Rechazada
+61,2022-07-30,61,25551.0,'transferencia bancaria',662000,120 días,Más de USD 100000,persona jurídica,10,2022-07-20,2022-09-06,4.0,12.0,Aceptada
+5,2022-02-03,62,10414.0,'transferencia bancaria',268000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-01-24,2022-07-23,18.0,10.0,Aceptada
+63,2022-02-03,63,32528.0,'cheque',534000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-01-24,2022-07-03,20.0,8.0,Aceptada
+64,2022-01-03,64,22237.0,'transferencia bancaria',579000,30 días,Entre USD 5000 y USD 20000,persona natural,5,2021-12-24,2022-01-11,2.0,9.0,Rechazada
+65,2022-02-18,65,38332.0,'cheque',529000,30 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-02-08,2022-11-01,14.0,19.0,Rechazada
+66,2022-04-14,66,21650.93,'transferencia bancaria',224000,120 días,Más de USD 100000,persona jurídica,6,2022-04-04,2022-06-21,6.0,13.0,Aceptada
+2,2022-05-05,67,8871.0,'transferencia bancaria',136000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-04-25,2022-07-04,14.0,5.0,Aceptada
+68,2021-06-29,68,3329.92,'transferencia bancaria',68000,90 días,Menos de USD 1000,persona jurídica,6,2021-06-19,2021-10-14,13.0,9.0,Rechazada
+69,2022-05-31,69,4563.0,'transferencia bancaria',118000,90 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-05-21,2022-06-10,5.0,4.0,Rechazada
+70,2022-05-03,70,7150.74,'transferencia bancaria',53000,30 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-04-23,2022-10-16,22.0,8.0,Rechazada
+71,2022-01-05,71,11933.0,'cheque',289000,90 días,Entre USD 5000 y USD 20000,persona jurídica,10,2021-12-26,2022-09-08,16.0,16.0,Rechazada
+1,2021-06-24,72,14974.0,'transferencia bancaria',368000,90 días,Entre USD 1000 y USD 5000,persona natural,1,2021-06-14,2021-08-25,12.0,6.0,Rechazada
+73,2022-06-14,73,7809.0,'cheque',68000,120 días,Entre USD 20000 y USD 100000,persona jurídica,3,2022-06-04,2023-06-30,23.0,17.0,Rechazada
+74,2022-07-21,74,13184.21,'transferencia bancaria',297000,120 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-07-11,2022-08-08,2.0,14.0,Rechazada
+75,2022-05-06,75,17458.69,'transferencia bancaria',231000,60 días,Entre USD 1000 y USD 5000,persona natural,4,2022-04-26,2022-07-25,5.0,18.0,Aceptada
+76,2022-07-24,76,75700.19,'cheque',1569000,30 días,Más de USD 100000,persona jurídica,9,2022-07-14,2022-09-09,19.0,3.0,Aceptada
+77,2022-08-17,77,5711.19,'cheque',136000,120 días,Entre USD 20000 y USD 100000,persona jurídica,8,2022-08-07,2022-09-24,3.0,16.0,Rechazada
+78,2022-04-02,78,33699.22,'transferencia bancaria',798000,90 días,Más de USD 100000,persona natural,3,2022-03-23,2022-03-25,1.0,2.0,Aceptada
+79,2022-03-30,79,30979.0,'transferencia bancaria',457000,30 días,Más de USD 100000,persona natural,3,2022-03-20,2022-08-29,9.0,18.0,Rechazada
+80,2022-02-07,80,26540.0,'cheque',486000,30 días,Más de USD 100000,persona jurídica,7,2022-01-28,2022-02-21,8.0,3.0,Aceptada
+81,2022-05-05,81,22639.0,'cheque',276000,30 días,Más de USD 100000,persona jurídica,6,2022-04-25,2022-06-20,7.0,8.0,Rechazada
+82,2022-02-04,82,19654.0,'transferencia bancaria',199000,30 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-01-25,2022-06-09,9.0,15.0,Aceptada
+83,2022-05-20,83,29863.0,'transferencia bancaria',536000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-05-10,2022-08-03,17.0,5.0,Aceptada
+84,2021-06-08,84,18358.0,'cheque',223000,120 días,Entre USD 5000 y USD 20000,persona jurídica,8,2021-05-29,2021-06-22,2.0,12.0,Aceptada
+5,2021-06-05,85,37844.0,'cheque',899000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2021-05-26,2021-08-10,4.0,19.0,Rechazada
+5,2022-05-07,86,20363.0,'cheque',189000,,Entre USD 5000 y USD 20000,persona natural,1,2022-04-27,2022-09-10,8.0,17.0,Rechazada
+87,2022-06-16,87,20611.0,'transferencia bancaria',158000,90 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-06-06,2023-02-13,14.0,18.0,Rechazada
+88,2022-04-25,88,6756.17,'cheque',105000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-04-15,2023-01-06,19.0,14.0,Aceptada
+5,2022-07-21,89,12647.64,'cheque',334000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-07-11,2022-10-17,7.0,14.0,Aceptada
+90,2022-07-08,90,37682.37,'cheque',983000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-06-28,2022-09-08,6.0,12.0,Aceptada
+91,2022-01-03,91,35430.0,'transferencia bancaria',700000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2021-12-24,2022-01-05,12.0,1.0,Aceptada
+92,2022-06-13,92,9756.11,'transferencia bancaria',199000,90 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-06-03,2022-08-26,6.0,14.0,Aceptada
+93,2022-07-05,93,7890.0,'transferencia bancaria',168000,30 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-06-25,2022-06-27,1.0,2.0,Rechazada
+94,2022-01-20,94,18575.73,'cheque',427000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-01-10,2022-11-05,23.0,13.0,Aceptada
+95,2021-06-28,95,19463.0,'cheque',384000,90 días,Entre USD 20000 y USD 100000,persona natural,3,2021-06-18,2021-12-15,18.0,10.0,Aceptada
+96,2022-06-06,96,11674.0,'cheque',101000,90 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-05-27,2023-02-06,17.0,15.0,Rechazada
+97,2022-06-06,97,21450.0,'transferencia bancaria',172000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-05-27,2022-07-12,23.0,2.0,Aceptada
+2,2022-05-02,98,39383.56,'transferencia bancaria',738000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-04-22,2022-06-12,17.0,3.0,Rechazada
+99,2022-08-27,99,38109.26,'transferencia bancaria',713000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-08-17,2022-11-15,9.0,10.0,Aceptada
+2,2022-07-23,100,10899.63,'transferencia bancaria',200000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-13,2023-01-16,17.0,11.0,Aceptada
+101,2022-05-13,101,23845.35,'transferencia bancaria',613000,120 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-05-03,2022-08-21,11.0,10.0,Aceptada
+6,2022-02-13,102,24641.0,'cheque',571000,90 días,Más de USD 100000,persona natural,1,2022-02-03,2022-03-23,3.0,16.0,Rechazada
+103,2022-01-14,103,25731.88,'transferencia bancaria',609000,120 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-01-04,2022-04-24,10.0,11.0,Aceptada
+104,2022-04-24,104,3316.26,'transferencia bancaria',34000,60 días,Menos de USD 1000,persona jurídica,4,2022-04-14,2022-04-18,4.0,1.0,Aceptada
+5,2022-08-26,105,11537.19,'transferencia bancaria',300000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-08-16,2022-09-18,3.0,11.0,Aceptada
+2,2022-02-05,106,10551.0,'cheque',134000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-01-26,2022-03-03,3.0,12.0,Aceptada
+6,2022-06-27,107,35747.93,'transferencia bancaria',478000,120 días,Más de USD 100000,persona natural,1,2022-06-17,2022-07-10,23.0,1.0,Aceptada
+2,2021-06-08,108,38121.0,'cheque',582000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2021-05-29,2022-02-08,15.0,17.0,Aceptada
+2,2022-07-15,109,9333.22,'cheque',96000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-05,2022-08-04,3.0,10.0,Aceptada
+110,2022-06-21,110,17088.0,'cheque',154000,120 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-06-11,2023-04-30,19.0,17.0,Aceptada
+111,2022-07-17,111,7509.0,'cheque',100000,30 días,Entre USD 5000 y USD 20000,persona natural,5,2022-07-07,2023-02-16,16.0,14.0,Rechazada
+6,2022-03-02,112,20027.0,'transferencia bancaria',133000,90 días,Más de USD 100000,persona natural,1,2022-02-20,2022-11-17,18.0,15.0,Rechazada
+113,2022-07-24,113,36302.57,'cheque',735000,60 días,Más de USD 100000,persona natural,4,2022-07-14,2022-08-22,3.0,13.0,Rechazada
+114,2022-02-26,114,22790.0,'transferencia bancaria',205000,90 días,Más de USD 100000,persona jurídica,8,2022-02-16,2022-09-08,17.0,12.0,Rechazada
+115,2022-01-31,115,26271.14,'transferencia bancaria',506000,120 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-01-21,2022-04-30,9.0,11.0,Rechazada
+116,2022-04-25,116,28138.0,'cheque',725000,120 días,Más de USD 100000,persona jurídica,9,2022-04-15,2022-12-18,19.0,13.0,Rechazada
+117,2022-04-27,117,24074.77,'cheque',615000,90 días,Entre USD 5000 y USD 20000,persona natural,3,2022-04-17,2022-06-08,13.0,4.0,Rechazada
+118,2022-04-20,118,30553.0,'transferencia bancaria',526000,60 días,Más de USD 100000,persona natural,3,2022-04-10,2022-10-31,12.0,17.0,Aceptada
+119,2022-08-21,119,10619.98,'cheque',194000,120 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-08-11,2023-01-20,18.0,9.0,Aceptada
+120,2022-06-05,120,23612.26,'transferencia bancaria',251000,30 días,Más de USD 100000,persona jurídica,7,2022-05-26,2023-01-09,12.0,19.0,Aceptada
+121,2022-02-02,121,21566.0,'transferencia bancaria',528000,60 días,Entre USD 20000 y USD 100000,persona natural,5,2022-01-23,2022-08-20,19.0,11.0,Aceptada
+122,2022-05-27,122,7753.0,'cheque',83000,60 días,Entre USD 5000 y USD 20000,persona natural,3,2022-05-17,2023-01-10,17.0,14.0,Rechazada
+123,2021-06-08,123,24654.1,'cheque',383000,30 días,Entre USD 20000 y USD 100000,persona natural,3,2021-05-29,2021-06-12,2.0,7.0,Rechazada
+124,2022-03-17,124,35382.0,'transferencia bancaria',887000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-03-07,2022-04-24,4.0,12.0,Rechazada
+125,2022-03-22,125,18549.19,'cheque',453000,60 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-03-12,2022-06-04,12.0,7.0,Aceptada
+126,2022-02-20,126,19210.74,'cheque',328000,60 días,Entre USD 20000 y USD 100000,persona jurídica,5,2022-02-10,2022-03-06,8.0,3.0,Rechazada
+127,2022-03-02,127,33294.0,'transferencia bancaria',709000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-02-20,2022-05-03,9.0,8.0,Rechazada
+128,2021-06-01,128,17538.0,'cheque',292000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2021-05-22,2021-07-29,4.0,17.0,Aceptada
+1,2022-01-02,129,6736.28,'transferencia bancaria',110000,30 días,Entre USD 1000 y USD 5000,persona natural,1,2021-12-23,2022-07-11,20.0,10.0,Rechazada
+130,2022-03-03,130,29969.0,'cheque',582000,30 días,Entre USD 5000 y USD 20000,persona natural,2,2022-02-21,2022-03-25,4.0,8.0,Rechazada
+131,2022-01-17,131,4749.56,'transferencia bancaria',68000,60 días,Menos de USD 1000,persona jurídica,7,2022-01-07,2022-05-31,9.0,16.0,Rechazada
+5,2022-08-28,132,32717.41,'cheque',876000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-08-18,2023-03-01,13.0,15.0,Rechazada
+2,2022-04-26,133,37780.0,'cheque',806000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-04-16,2022-05-06,4.0,5.0,Rechazada
+134,2022-05-27,134,31646.0,'transferencia bancaria',730000,120 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-05-17,2022-05-31,1.0,14.0,Aceptada
+135,2022-06-23,135,26123.77,'transferencia bancaria',247000,90 días,Más de USD 100000,persona jurídica,9,2022-06-13,2022-07-01,18.0,1.0,Aceptada
+136,2021-06-22,136,2008.0,'transferencia bancaria',20000,30 días,Menos de USD 1000,persona jurídica,5,2021-06-12,2022-02-19,21.0,12.0,Rechazada
+137,2022-07-16,137,28209.78,'cheque',236000,120 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-07-06,2022-10-19,7.0,15.0,Aceptada
+138,2022-04-27,138,27415.91,'transferencia bancaria',544000,30 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-04-17,2023-01-12,18.0,15.0,Aceptada
+139,2022-03-07,139,9482.6,'transferencia bancaria',95000,60 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-02-25,2022-04-18,4.0,13.0,Aceptada
+140,2021-06-06,140,4675.0,'transferencia bancaria',113000,90 días,Menos de USD 1000,persona jurídica,5,2021-05-27,2021-09-16,16.0,7.0,Aceptada
+141,2021-06-22,141,21862.33,'cheque',410000,90 días,Más de USD 100000,persona natural,3,2021-06-12,2022-01-19,13.0,17.0,Rechazada
+142,2022-03-07,142,30809.85,'transferencia bancaria',481000,90 días,Entre USD 5000 y USD 20000,persona natural,2,2022-02-25,2023-01-21,22.0,15.0,Rechazada
+143,2022-05-23,143,26125.0,'cheque',469000,120 días,Entre USD 5000 y USD 20000,persona natural,3,2022-05-13,2022-07-12,15.0,4.0,Rechazada
+2,2022-03-13,144,20674.72,'cheque',275000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-03-03,2022-10-27,17.0,14.0,Rechazada
+145,2022-08-27,145,35857.69,'transferencia bancaria',549000,120 días,Entre USD 5000 y USD 20000,persona natural,4,2022-08-17,2022-08-28,11.0,1.0,Rechazada
+146,2022-03-28,146,36024.0,'transferencia bancaria',685000,90 días,Entre USD 20000 y USD 100000,persona natural,3,2022-03-18,2022-06-16,18.0,5.0,Rechazada
+147,2022-06-23,147,3991.34,'cheque',37000,120 días,Menos de USD 1000,persona jurídica,7,2022-06-13,2022-09-01,5.0,16.0,Rechazada
+2,2022-03-02,148,33811.85,'transferencia bancaria',832000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-02-20,2022-03-10,1.0,18.0,Aceptada
+149,2022-06-06,149,38457.0,'transferencia bancaria',766000,30 días,Más de USD 100000,persona natural,2,2022-05-27,2022-06-30,2.0,17.0,Rechazada
+150,2022-03-31,150,20712.11,'cheque',444000,90 días,Más de USD 100000,persona jurídica,10,2022-03-21,2022-12-26,20.0,14.0,Aceptada
+151,2022-01-05,151,4497.28,'cheque',43000,120 días,Menos de USD 1000,persona natural,2,2021-12-26,2022-01-14,1.0,19.0,Rechazada
+152,2022-01-25,152,4581.57,'transferencia bancaria',68000,60 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-01-15,2022-03-02,23.0,2.0,Aceptada
+153,2022-05-24,153,3763.11,'transferencia bancaria',68000,30 días,Menos de USD 1000,persona jurídica,7,2022-05-14,2023-04-21,19.0,18.0,Rechazada
+154,2022-07-06,154,7068.0,'transferencia bancaria',147000,90 días,Entre USD 5000 y USD 20000,persona natural,2,2022-06-26,2022-07-24,7.0,4.0,Rechazada
+155,2022-08-17,155,14769.54,'cheque',231000,90 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-08-07,2022-12-17,12.0,11.0,Rechazada
+5,2022-07-27,156,10874.0,'transferencia bancaria',125000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-07-17,2023-01-23,19.0,10.0,Rechazada
+157,2022-01-02,157,34970.0,'transferencia bancaria',412000,30 días,Más de USD 100000,persona jurídica,8,2021-12-23,2022-11-11,19.0,17.0,Aceptada
+2,2022-02-13,158,33209.43,'transferencia bancaria',573000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-02-03,2022-05-09,19.0,5.0,Rechazada
+159,2022-03-27,159,16062.88,'cheque',420000,60 días,Entre USD 20000 y USD 100000,persona natural,4,2022-03-17,2022-07-31,8.0,17.0,Aceptada
+2,2021-06-02,160,7640.17,'transferencia bancaria',189000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2021-05-23,2021-07-10,16.0,3.0,Rechazada
+161,2022-04-21,161,6940.0,'transferencia bancaria',180000,90 días,Entre USD 1000 y USD 5000,persona natural,4,2022-04-11,2023-02-09,19.0,16.0,Rechazada
+162,2022-08-22,162,13914.95,'cheque',170000,30 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-08-12,2023-05-03,22.0,12.0,Aceptada
+163,2022-02-17,163,29531.33,'cheque',692000,120 días,Más de USD 100000,persona natural,4,2022-02-07,2022-04-04,14.0,4.0,Aceptada
+1,2022-01-02,164,7424.0,'cheque',98000,120 días,Entre USD 1000 y USD 5000,persona natural,1,2021-12-23,2022-04-12,11.0,10.0,Aceptada
+165,2022-08-03,165,5509.0,'transferencia bancaria',89000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-07-24,2022-08-23,6.0,5.0,Aceptada
+166,2022-04-05,166,17440.0,'transferencia bancaria',325000,30 días,Entre USD 20000 y USD 100000,persona natural,3,2022-03-26,2022-05-09,11.0,4.0,Rechazada
+167,2021-06-26,167,10284.0,'transferencia bancaria',240000,90 días,Entre USD 1000 y USD 5000,persona jurídica,7,2021-06-16,2021-07-02,8.0,2.0,Aceptada
+2,2022-07-21,168,39925.0,'cheque',507000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-11,2023-01-03,11.0,16.0,Aceptada
+169,2022-08-17,169,5833.0,'transferencia bancaria',151000,60 días,Entre USD 20000 y USD 100000,persona natural,2,2022-08-07,2022-10-26,5.0,16.0,Rechazada
+170,2022-03-23,170,17037.16,'cheque',360000,90 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-03-13,2022-09-29,20.0,10.0,Rechazada
+6,2022-05-07,171,21147.46,'cheque',368000,90 días,Más de USD 100000,persona natural,1,2022-04-27,2022-07-12,4.0,19.0,Aceptada
+172,2022-08-20,172,2979.0,'transferencia bancaria',51000,60 días,Entre USD 1000 y USD 5000,persona natural,2,2022-08-10,2023-09-05,23.0,17.0,Aceptada
+173,2021-06-16,173,39825.0,'transferencia bancaria',793000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2021-06-06,2021-07-08,8.0,4.0,Aceptada
+174,2022-05-27,174,4049.0,'transferencia bancaria',32000,60 días,Entre USD 1000 y USD 5000,persona jurídica,9,2022-05-17,2023-01-12,20.0,12.0,Rechazada
+175,2022-06-22,175,31657.98,'cheque',835000,120 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-06-12,2022-08-27,19.0,4.0,Rechazada
+176,2022-04-17,176,33193.0,'cheque',657000,120 días,Más de USD 100000,persona jurídica,5,2022-04-07,2022-04-17,5.0,2.0,Aceptada
+177,2022-03-21,177,9010.0,'transferencia bancaria',188000,30 días,Entre USD 5000 y USD 20000,persona natural,3,2022-03-11,2022-08-12,14.0,11.0,Rechazada
+178,2021-06-07,178,3726.0,'transferencia bancaria',68000,90 días,Menos de USD 1000,persona jurídica,6,2021-05-28,2021-12-22,16.0,13.0,Rechazada
+179,2022-08-20,179,29664.11,'transferencia bancaria',749000,120 días,Más de USD 100000,persona jurídica,9,2022-08-10,2023-01-01,9.0,16.0,Aceptada
+180,2022-06-07,180,25280.55,'transferencia bancaria',626000,90 días,Entre USD 5000 y USD 20000,persona natural,3,2022-05-28,2022-09-13,9.0,12.0,Rechazada
+181,2022-03-06,181,10983.0,'cheque',221000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-02-24,2022-03-24,4.0,7.0,Aceptada
+182,2022-04-01,182,7614.12,'transferencia bancaria',68000,90 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-03-22,2022-07-20,10.0,12.0,Aceptada
+183,2022-04-28,183,29552.0,'transferencia bancaria',188000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-04-18,2022-07-07,8.0,10.0,Rechazada
+184,2022-05-14,184,3669.1,'cheque',86000,60 días,Entre USD 1000 y USD 5000,persona jurídica,9,2022-05-04,2022-10-13,9.0,18.0,Aceptada
+185,2021-06-08,185,16345.0,'transferencia bancaria',103000,30 días,Entre USD 20000 y USD 100000,persona natural,2,2021-05-29,2021-08-09,8.0,9.0,Rechazada
+186,2022-04-25,186,10888.0,'cheque',229000,30 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-04-15,2023-03-17,21.0,16.0,Rechazada
+187,2022-05-25,187,6742.0,'cheque',118000,90 días,Entre USD 1000 y USD 5000,persona natural,2,2022-05-15,2022-05-21,3.0,2.0,Aceptada
+1,2022-01-26,188,14858.0,'cheque',241000,30 días,Entre USD 1000 y USD 5000,persona natural,1,2022-01-16,2022-02-27,21.0,2.0,Rechazada
+189,2021-06-25,189,26519.52,'transferencia bancaria',624000,90 días,Entre USD 20000 y USD 100000,persona natural,3,2021-06-15,2022-02-01,21.0,11.0,Rechazada
+190,2022-07-22,190,19446.84,'cheque',360000,30 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-07-12,2022-11-01,14.0,8.0,Rechazada
+191,2022-05-22,191,25309.52,'transferencia bancaria',512000,60 días,Más de USD 100000,persona natural,4,2022-05-12,2023-03-12,19.0,16.0,Aceptada
+192,2022-01-20,192,7852.97,'transferencia bancaria',58000,120 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-01-10,2022-03-05,3.0,18.0,Rechazada
+193,2022-03-26,193,33647.0,'transferencia bancaria',653000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-03-16,2022-06-04,20.0,4.0,Aceptada
+194,2022-04-07,194,28583.52,'transferencia bancaria',350000,30 días,Entre USD 5000 y USD 20000,persona natural,3,2022-03-28,2022-06-06,7.0,10.0,Aceptada
+1,2022-04-20,195,15556.98,'transferencia bancaria',300000,90 días,Entre USD 1000 y USD 5000,persona natural,1,2022-04-10,2022-10-07,18.0,10.0,Aceptada
+5,2022-06-06,196,13168.0,'cheque',352000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-05-27,2022-08-25,18.0,5.0,Aceptada
+197,2022-05-30,197,21887.0,'cheque',398000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-05-20,2022-06-01,3.0,4.0,Rechazada
+198,2022-01-18,198,13510.0,'cheque',317000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-01-08,2022-03-29,8.0,10.0,Aceptada
+6,2022-04-17,199,36366.0,'cheque',933000,30 días,Más de USD 100000,persona natural,1,2022-04-07,2022-04-25,9.0,2.0,Rechazada
+200,2022-03-04,200,16320.41,'cheque',146000,90 días,Entre USD 1000 y USD 5000,persona natural,3,2022-02-22,2022-12-23,16.0,19.0,Rechazada
+201,2022-05-07,201,20371.0,'transferencia bancaria',471000,120 días,Más de USD 100000,persona jurídica,6,2022-04-27,2022-07-05,23.0,3.0,Aceptada
+202,2022-08-13,202,31608.99,'transferencia bancaria',486000,90 días,Más de USD 100000,persona natural,2,2022-08-03,2022-08-23,10.0,2.0,Aceptada
+203,2022-08-13,203,31160.4,'transferencia bancaria',243000,120 días,Más de USD 100000,persona natural,2,2022-08-03,2022-11-07,6.0,16.0,Aceptada
+204,2022-05-17,204,5429.0,'transferencia bancaria',53000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-05-07,2022-09-04,15.0,8.0,Aceptada
+205,2022-07-30,205,369.0,'cheque',7000,120 días,Menos de USD 1000,persona jurídica,4,2022-07-20,2022-10-24,12.0,8.0,Aceptada
+206,2022-02-08,206,18052.76,'transferencia bancaria',300000,90 días,Entre USD 20000 y USD 100000,persona jurídica,5,2022-01-29,2023-01-21,21.0,17.0,Rechazada
+207,2022-07-21,207,5973.0,'transferencia bancaria',41000,90 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-07-11,2022-11-23,9.0,15.0,Aceptada
+208,2022-05-01,208,246.0,'transferencia bancaria',6000,60 días,Menos de USD 1000,persona jurídica,10,2022-04-21,2023-02-15,20.0,15.0,Rechazada
+209,2022-07-22,209,1458.9,'transferencia bancaria',23000,60 días,Menos de USD 1000,persona jurídica,7,2022-07-12,2022-07-24,12.0,1.0,Aceptada
+210,2022-08-04,210,36917.0,'transferencia bancaria',975000,90 días,Entre USD 5000 y USD 20000,persona natural,2,2022-07-25,2022-11-22,8.0,15.0,Rechazada
+211,2022-01-31,211,34221.24,'cheque',420000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-01-21,2022-04-01,5.0,14.0,Aceptada
+212,2022-08-22,212,37422.0,'cheque',452000,120 días,Entre USD 20000 y USD 100000,persona jurídica,8,2022-08-12,2022-10-29,6.0,13.0,Aceptada
+213,2022-06-23,213,37168.87,'cheque',863000,60 días,Más de USD 100000,persona jurídica,9,2022-06-13,2022-08-16,16.0,4.0,Rechazada
+214,2022-02-14,214,35907.72,'transferencia bancaria',775000,120 días,Entre USD 5000 y USD 20000,persona natural,4,2022-02-04,2022-06-20,17.0,8.0,Rechazada
+215,2022-03-26,215,36950.36,'transferencia bancaria',866000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-03-16,2022-03-25,1.0,9.0,Rechazada
+216,2022-02-06,216,16110.0,'cheque',220000,60 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-01-27,2022-09-24,15.0,16.0,Rechazada
+217,2022-02-04,217,25189.87,'cheque',629000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-01-25,2022-04-05,14.0,5.0,Aceptada
+218,2022-06-07,218,14791.0,'cheque',304000,120 días,Entre USD 20000 y USD 100000,persona natural,3,2022-05-28,2022-07-07,20.0,2.0,Aceptada
+5,2022-06-13,219,22567.0,'cheque',471000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-06-03,2022-09-01,18.0,5.0,Aceptada
+220,2022-08-24,220,37239.0,'cheque',470000,120 días,Más de USD 100000,persona jurídica,10,2022-08-14,2023-01-23,9.0,18.0,Aceptada
+221,2022-02-06,221,14132.4,'cheque',240000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-01-27,2022-02-18,11.0,2.0,Aceptada
+222,2022-07-03,222,5870.4,'transferencia bancaria',135000,60 días,Entre USD 1000 y USD 5000,persona natural,4,2022-06-23,2022-08-13,3.0,17.0,Aceptada
+223,2022-08-16,223,39712.25,'transferencia bancaria',361000,120 días,Más de USD 100000,persona jurídica,9,2022-08-06,2022-09-02,3.0,9.0,Aceptada
+224,2022-01-16,224,4163.0,'cheque',89000,30 días,Entre USD 5000 y USD 20000,persona natural,3,2022-01-06,2022-07-01,16.0,11.0,Rechazada
+225,2022-03-08,225,18375.0,'cheque',287000,30 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-02-26,2022-08-01,12.0,13.0,Aceptada
+2,2022-01-07,226,10904.38,'cheque',124000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2021-12-28,2022-04-11,13.0,8.0,Aceptada
+227,2022-01-27,227,14349.0,'cheque',256000,60 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-01-17,2022-02-02,8.0,2.0,Aceptada
+228,2022-03-06,228,21132.35,'transferencia bancaria',480000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-02-24,2022-04-25,15.0,4.0,Aceptada
+229,2022-06-24,229,20143.0,'transferencia bancaria',325000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-06-14,2022-10-24,12.0,11.0,Aceptada
+230,2022-04-16,230,7469.0,'transferencia bancaria',131000,120 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-04-06,2022-10-21,18.0,11.0,Aceptada
+231,2021-06-30,231,89600.0,'transferencia bancaria',1235000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2021-06-20,2021-09-04,19.0,4.0,Aceptada
+232,2022-08-31,232,24758.0,'transferencia bancaria',459000,120 días,Más de USD 100000,persona jurídica,5,2022-08-21,2022-09-05,1.0,15.0,Aceptada
+233,2022-08-14,233,39565.97,'transferencia bancaria',895000,120 días,Entre USD 5000 y USD 20000,persona natural,4,2022-08-04,2022-11-12,20.0,5.0,Aceptada
+234,2022-03-22,234,7608.0,'cheque',91000,90 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-03-12,2022-06-16,16.0,6.0,Rechazada
+235,2022-04-03,235,6784.0,'cheque',118000,90 días,Entre USD 20000 y USD 100000,persona natural,3,2022-03-24,2022-05-13,10.0,5.0,Rechazada
+236,2022-06-26,236,14611.0,'cheque',295000,90 días,Entre USD 20000 y USD 100000,persona jurídica,8,2022-06-16,2022-12-13,18.0,10.0,Aceptada
+237,2022-07-18,237,5653.5,'transferencia bancaria',145000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-07-08,2022-08-13,9.0,4.0,Aceptada
+238,2021-06-24,238,2859.68,'transferencia bancaria',18000,90 días,Menos de USD 1000,persona jurídica,4,2021-06-14,2021-10-06,6.0,19.0,Aceptada
+239,2022-01-20,239,18259.59,'cheque',236000,60 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-01-10,2022-01-22,12.0,1.0,Aceptada
+240,2022-08-23,240,29016.85,'cheque',376000,30 días,Entre USD 20000 y USD 100000,persona natural,2,2022-08-13,2022-08-16,3.0,1.0,Rechazada
+241,2022-06-27,241,3029.25,'cheque',20000,120 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-06-17,2023-05-06,17.0,19.0,Rechazada
+242,2022-03-27,242,21386.0,'transferencia bancaria',546000,90 días,Más de USD 100000,persona natural,2,2022-03-17,2022-03-30,1.0,13.0,Rechazada
+243,2022-07-16,243,24176.17,'transferencia bancaria',200000,90 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-07-06,2022-07-17,11.0,1.0,Rechazada
+5,2022-06-27,244,28441.81,'transferencia bancaria',291000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-06-17,2023-07-02,20.0,19.0,Rechazada
+245,2022-05-27,245,5836.0,'transferencia bancaria',116000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-05-17,2022-05-27,1.0,10.0,Aceptada
+246,2021-06-02,246,17146.0,'cheque',120000,120 días,Entre USD 20000 y USD 100000,persona jurídica,7,2021-05-23,2021-07-04,7.0,6.0,Aceptada
+247,2022-07-07,247,34368.73,'transferencia bancaria',300000,120 días,Más de USD 100000,persona jurídica,9,2022-06-27,2022-08-08,14.0,3.0,Aceptada
+248,2022-01-08,248,27710.51,'transferencia bancaria',677000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2021-12-29,2022-02-07,20.0,2.0,Rechazada
+6,2022-02-17,249,33221.13,'cheque',324000,60 días,Más de USD 100000,persona natural,1,2022-02-07,2022-07-25,21.0,8.0,Rechazada
+6,2022-05-04,250,24726.0,'cheque',294000,90 días,Más de USD 100000,persona natural,1,2022-04-24,2022-09-14,13.0,11.0,Rechazada
+251,2021-06-18,251,39459.6,'cheque',835000,120 días,Más de USD 100000,persona jurídica,7,2021-06-08,2021-06-29,21.0,1.0,Aceptada
+252,2022-06-18,252,39776.0,'cheque',278000,120 días,Entre USD 5000 y USD 20000,persona natural,3,2022-06-08,2022-09-21,21.0,5.0,Aceptada
+253,2021-06-28,253,20111.0,'transferencia bancaria',372000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2021-06-18,2021-06-24,3.0,2.0,Rechazada
+6,2021-06-04,254,30882.0,'cheque',755000,90 días,Más de USD 100000,persona natural,1,2021-05-25,2021-06-13,1.0,19.0,Aceptada
+255,2022-08-01,255,14356.0,'cheque',278000,30 días,Entre USD 20000 y USD 100000,persona natural,5,2022-07-22,2022-08-21,15.0,2.0,Aceptada
+256,2022-02-14,256,14489.47,'transferencia bancaria',323000,30 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-02-04,2022-07-07,17.0,9.0,Aceptada
+257,2022-03-07,257,23237.0,'cheque',225000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-02-25,2022-03-18,3.0,7.0,Aceptada
+2,2022-08-16,258,9598.0,'cheque',68000,120 días,Entre USD 20000 y USD 100000,persona jurídica,1,2022-08-06,2022-11-06,23.0,4.0,Aceptada
+259,2022-04-13,259,2791.13,'transferencia bancaria',38000,60 días,Entre USD 5000 y USD 20000,persona natural,4,2022-04-03,2022-04-27,8.0,3.0,Rechazada
+260,2022-03-04,260,18517.4,'cheque',125000,30 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-02-22,2022-05-23,10.0,9.0,Rechazada
+7,2022-05-15,261,3767.21,'cheque',82000,60 días,Menos de USD 1000,persona natural,1,2022-05-05,2022-06-29,11.0,5.0,Rechazada
+6,2021-06-27,262,26726.0,'cheque',607000,120 días,Más de USD 100000,persona natural,1,2021-06-17,2022-01-24,17.0,13.0,Aceptada
+263,2022-07-27,263,10004.0,'transferencia bancaria',201000,90 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-07-17,2022-09-27,8.0,9.0,Rechazada
+264,2022-08-25,264,8046.0,'cheque',137000,120 días,Entre USD 1000 y USD 5000,persona natural,3,2022-08-15,2022-11-03,8.0,10.0,Aceptada
+265,2022-07-15,265,16273.42,'transferencia bancaria',304000,90 días,Entre USD 5000 y USD 20000,persona natural,2,2022-07-05,2022-09-27,14.0,6.0,Aceptada
+7,2022-03-25,266,491.0,'cheque',12000,60 días,Menos de USD 1000,persona jurídica,1,2022-03-15,2022-08-22,16.0,10.0,Aceptada
+267,2022-03-17,267,21084.0,'transferencia bancaria',564000,60 días,Entre USD 5000 y USD 20000,persona natural,4,2022-03-07,2022-03-31,3.0,8.0,Aceptada
+268,2022-05-30,268,9040.0,'cheque',92000,90 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-05-20,2022-08-04,19.0,4.0,Aceptada
+269,2021-06-17,269,37996.0,'cheque',469000,30 días,Más de USD 100000,persona natural,3,2021-06-07,2022-01-01,16.0,13.0,Aceptada
+270,2022-06-22,270,3206.0,'cheque',58000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-06-12,2022-06-24,3.0,4.0,Rechazada
+271,2022-05-15,271,5694.94,'cheque',54000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-05-05,2023-04-10,20.0,17.0,Rechazada
+272,2022-01-30,272,28659.47,'transferencia bancaria',509000,30 días,Entre USD 5000 y USD 20000,persona natural,2,2022-01-20,2022-03-27,22.0,3.0,Aceptada
+273,2021-06-03,273,3576.0,'cheque',93000,120 días,Entre USD 1000 y USD 5000,persona jurídica,8,2021-05-24,2021-08-22,10.0,9.0,Aceptada
+6,2022-02-16,274,34619.31,'transferencia bancaria',517000,120 días,Más de USD 100000,persona natural,1,2022-02-06,2022-02-16,1.0,10.0,Rechazada
+275,2022-05-07,275,23313.0,'cheque',489000,60 días,Más de USD 100000,persona jurídica,9,2022-04-27,2022-05-06,3.0,3.0,Aceptada
+276,2022-08-17,276,7837.0,'transferencia bancaria',58000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-08-07,2023-01-15,23.0,7.0,Rechazada
+277,2022-03-02,277,35699.39,'transferencia bancaria',293000,90 días,Entre USD 5000 y USD 20000,persona natural,4,2022-02-20,2022-08-07,21.0,8.0,Aceptada
+1,2022-08-07,278,18154.69,'transferencia bancaria',232000,90 días,Entre USD 1000 y USD 5000,persona natural,1,2022-07-28,2023-02-22,19.0,11.0,Aceptada
+279,2022-05-22,279,28933.0,'cheque',639000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2022-05-12,2022-05-22,10.0,1.0,Rechazada
+280,2022-05-16,280,34233.72,'cheque',483000,30 días,Entre USD 20000 y USD 100000,persona natural,3,2022-05-06,2022-07-20,15.0,5.0,Aceptada
+281,2022-02-03,281,18987.1,'cheque',130000,90 días,Entre USD 1000 y USD 5000,persona natural,3,2022-01-24,2022-02-11,2.0,9.0,Aceptada
+282,2021-06-22,282,17107.0,'transferencia bancaria',355000,60 días,Entre USD 1000 y USD 5000,persona jurídica,9,2021-06-12,2021-11-27,12.0,14.0,Rechazada
+283,2022-05-07,283,13919.11,'transferencia bancaria',109000,60 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-04-27,2022-05-07,5.0,2.0,Aceptada
+284,2022-06-02,284,26643.79,'cheque',356000,90 días,Entre USD 5000 y USD 20000,persona natural,3,2022-05-23,2022-07-30,17.0,4.0,Rechazada
+285,2022-03-25,285,27914.0,'cheque',238000,30 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-03-15,2023-05-26,23.0,19.0,Rechazada
+286,2022-01-15,286,14816.0,'transferencia bancaria',280000,60 días,Entre USD 1000 y USD 5000,persona natural,5,2022-01-05,2023-01-14,22.0,17.0,Aceptada
+287,2022-06-13,287,25870.36,'cheque',568000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-06-03,2022-06-04,1.0,1.0,Rechazada
+288,2022-07-06,288,10704.0,'transferencia bancaria',219000,120 días,Entre USD 5000 y USD 20000,persona natural,5,2022-06-26,2022-07-02,6.0,1.0,Rechazada
+289,2022-07-20,289,22240.0,'cheque',525000,90 días,Más de USD 100000,persona jurídica,7,2022-07-10,2022-08-05,13.0,2.0,Aceptada
+290,2022-01-26,290,7980.0,'cheque',173000,60 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-01-16,2022-04-30,8.0,13.0,Rechazada
+291,2022-07-07,291,29501.0,'cheque',566000,60 días,Entre USD 20000 y USD 100000,persona natural,2,2022-06-27,2022-09-15,20.0,4.0,Rechazada
+292,2022-04-28,292,21685.23,'cheque',352000,120 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-04-18,2022-06-22,13.0,5.0,Aceptada
+293,2021-06-13,293,8790.0,'cheque',127000,120 días,Entre USD 1000 y USD 5000,persona natural,3,2021-06-03,2022-02-10,14.0,18.0,Rechazada
+294,2022-05-27,294,32427.35,'transferencia bancaria',481000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2022-05-17,2022-12-13,15.0,14.0,Rechazada
+295,2022-07-02,295,19956.0,'transferencia bancaria',201000,30 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-06-22,2022-07-24,4.0,8.0,Aceptada
+5,2022-01-17,296,22249.42,'cheque',348000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-01-07,2022-02-18,21.0,2.0,Aceptada
+297,2022-04-20,297,31736.68,'transferencia bancaria',780000,120 días,Entre USD 5000 y USD 20000,persona natural,2,2022-04-10,2023-01-07,16.0,17.0,Rechazada
+298,2021-06-27,298,29961.0,'cheque',343000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2021-06-17,2021-08-20,16.0,4.0,Rechazada
+299,2022-06-03,299,2397.0,'cheque',34000,30 días,Menos de USD 1000,persona jurídica,10,2022-05-24,2022-11-05,15.0,11.0,Rechazada
+300,2021-06-05,1,18714.0,'cheque',391000,90 días,Entre USD 5000 y USD 20000,persona natural,5,2021-05-26,2021-11-22,20.0,9.0,En remate
+301,2021-06-27,17,6666.29,'cheque',177000,30 días,Entre USD 5000 y USD 20000,persona jurídica,7,2021-06-17,2021-07-07,10.0,2.0,En remate
+302,2021-06-05,25,8019.0,'cheque',80000,30 días,Entre USD 1000 y USD 5000,persona natural,5,2021-05-26,2021-07-09,11.0,4.0,En remate
+303,2021-06-28,30,30352.0,'cheque',207000,120 días,Entre USD 20000 y USD 100000,persona jurídica,5,2021-06-18,2021-09-06,8.0,10.0,En remate
+304,2021-06-02,39,10742.0,'transferencia bancaria',285000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2021-05-23,2022-07-11,23.0,18.0,En remate
+305,2021-06-07,84,18358.0,'cheque',223000,120 días,Entre USD 5000 y USD 20000,persona jurídica,8,2021-05-28,2021-06-21,2.0,12.0,En remate
+306,2021-06-27,95,19463.0,'cheque',384000,90 días,Entre USD 20000 y USD 100000,persona natural,3,2021-06-17,2021-12-14,18.0,10.0,En remate
+2,2021-06-07,108,38121.0,'cheque',582000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2021-05-28,2022-02-07,15.0,17.0,En remate
+308,2021-06-02,128,17538.0,'cheque',292000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2021-05-23,2021-07-30,4.0,17.0,En remate
+309,2021-06-07,140,4675.0,'transferencia bancaria',113000,90 días,Menos de USD 1000,persona jurídica,5,2021-05-28,2021-09-17,16.0,7.0,En remate
+310,2021-06-27,167,10284.0,'transferencia bancaria',240000,90 días,Entre USD 1000 y USD 5000,persona jurídica,7,2021-06-17,2021-07-03,8.0,2.0,En remate
+311,2021-06-17,173,39825.0,'transferencia bancaria',793000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2021-06-07,2021-07-09,8.0,4.0,En remate
+312,2021-06-29,231,89600.0,'transferencia bancaria',1235000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2021-06-19,2021-09-03,19.0,4.0,En remate
+313,2021-06-25,238,2859.68,'transferencia bancaria',18000,90 días,Menos de USD 1000,persona jurídica,4,2021-06-15,2021-10-07,6.0,19.0,En remate
+314,2021-06-03,246,17146.0,'cheque',120000,120 días,Entre USD 20000 y USD 100000,persona jurídica,7,2021-05-24,2021-07-05,7.0,6.0,En remate
+315,2021-06-17,251,39459.6,'cheque',835000,120 días,Más de USD 100000,persona jurídica,7,2021-06-07,2021-06-28,21.0,1.0,En remate
+6,2021-06-05,254,30882.0,'cheque',755000,90 días,Más de USD 100000,persona natural,1,2021-05-26,2021-06-14,1.0,19.0,En remate
+6,2021-06-28,262,26726.0,'cheque',607000,120 días,Más de USD 100000,persona natural,1,2021-06-18,2022-01-25,17.0,13.0,En remate
+318,2021-06-18,269,37996.0,'cheque',469000,30 días,Más de USD 100000,persona natural,3,2021-06-08,2022-01-02,16.0,13.0,En remate
+319,2021-06-04,273,3576.0,'cheque',93000,120 días,Entre USD 1000 y USD 5000,persona jurídica,8,2021-05-25,2021-08-23,10.0,9.0,En remate
+320,2021-06-06,1,18714.0,'cheque',391000,90 días,Entre USD 5000 y USD 20000,persona natural,5,2021-05-27,2021-11-23,20.0,9.0,Avance
+321,2021-06-28,17,6666.29,'cheque',177000,30 días,Entre USD 5000 y USD 20000,persona jurídica,7,2021-06-18,2021-07-08,10.0,2.0,Avance
+322,2021-06-06,25,8019.0,'cheque',80000,30 días,Entre USD 1000 y USD 5000,persona natural,5,2021-05-27,2021-07-10,11.0,4.0,Avance
+323,2021-06-27,30,30352.0,'cheque',207000,120 días,Entre USD 20000 y USD 100000,persona jurídica,5,2021-06-17,2021-09-05,8.0,10.0,Avance
+324,2021-06-03,39,10742.0,'transferencia bancaria',285000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2021-05-24,2022-07-12,23.0,18.0,Avance
+325,2021-06-02,84,18358.0,'cheque',223000,120 días,Entre USD 5000 y USD 20000,persona jurídica,8,2021-05-23,2021-06-16,2.0,12.0,Avance
+326,2021-06-30,95,19463.0,'cheque',384000,90 días,Entre USD 20000 y USD 100000,persona natural,3,2021-06-20,2021-12-17,18.0,10.0,Avance
+2,2021-06-02,108,38121.0,'cheque',582000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2021-05-23,2022-02-02,15.0,17.0,Avance
+328,2021-06-03,128,17538.0,'cheque',292000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2021-05-24,2021-07-31,4.0,17.0,Avance
+329,2021-06-08,140,4675.0,'transferencia bancaria',113000,90 días,Menos de USD 1000,persona jurídica,5,2021-05-29,2021-09-18,16.0,7.0,Avance
+330,2021-06-28,167,10284.0,'transferencia bancaria',240000,90 días,Entre USD 1000 y USD 5000,persona jurídica,7,2021-06-18,2021-07-04,8.0,2.0,Avance
+331,2021-06-18,173,39825.0,'transferencia bancaria',793000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2021-06-08,2021-07-10,8.0,4.0,Avance
+332,2022-01-01,231,89600.0,'transferencia bancaria',1235000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2021-12-22,2022-03-08,19.0,4.0,Avance
+333,2021-06-26,238,2859.68,'transferencia bancaria',18000,90 días,Menos de USD 1000,persona jurídica,4,2021-06-16,2021-10-08,6.0,19.0,Avance
+334,2021-06-04,246,17146.0,'cheque',120000,120 días,Entre USD 20000 y USD 100000,persona jurídica,7,2021-05-25,2021-07-06,7.0,6.0,Avance
+335,2021-06-20,251,39459.6,'cheque',835000,120 días,Más de USD 100000,persona jurídica,7,2021-06-10,2021-07-01,21.0,1.0,Avance
+6,2021-06-06,254,30882.0,'cheque',755000,90 días,Más de USD 100000,persona natural,1,2021-05-27,2021-06-15,1.0,19.0,Avance
+6,2021-06-27,262,26726.0,'cheque',607000,120 días,Más de USD 100000,persona natural,1,2021-06-17,2022-01-24,17.0,13.0,Avance
+338,2021-06-17,269,37996.0,'cheque',469000,30 días,Más de USD 100000,persona natural,3,2021-06-07,2022-01-01,16.0,13.0,Avance
+339,2021-06-05,273,3576.0,'cheque',93000,120 días,Entre USD 1000 y USD 5000,persona jurídica,8,2021-05-26,2021-08-24,10.0,9.0,Avance
+340,2022-02-14,1,18714.0,'cheque',391000,90 días,Entre USD 5000 y USD 20000,persona natural,5,2022-02-04,2022-08-03,20.0,9.0,Pagada
+341,2022-02-18,17,6666.29,'cheque',177000,30 días,Entre USD 5000 y USD 20000,persona jurídica,7,2022-02-08,2022-02-28,10.0,2.0,Pagada
+342,2022-01-27,25,8019.0,'cheque',80000,30 días,Entre USD 1000 y USD 5000,persona natural,5,2022-01-17,2022-03-02,11.0,4.0,Pagada
+343,2022-02-16,30,30352.0,'cheque',207000,120 días,Entre USD 20000 y USD 100000,persona jurídica,5,2022-02-06,2022-04-27,8.0,10.0,Pagada
+344,2022-04-07,39,10742.0,'transferencia bancaria',285000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-03-28,2023-05-16,23.0,18.0,Cobranza
+345,2022-01-21,84,18358.0,'cheque',223000,120 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-01-11,2022-02-04,2.0,12.0,Pagada
+346,2022-01-30,95,19463.0,'cheque',384000,90 días,Entre USD 20000 y USD 100000,persona natural,3,2022-01-20,2022-07-19,18.0,10.0,Pagada
+2,2022-02-15,108,38121.0,'cheque',582000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-02-05,2022-10-18,15.0,17.0,Cobranza
+348,2022-02-06,128,17538.0,'cheque',292000,60 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-01-27,2022-04-05,4.0,17.0,Pagada
+349,2022-03-28,140,4675.0,'transferencia bancaria',113000,90 días,Menos de USD 1000,persona jurídica,5,2022-03-18,2022-07-08,16.0,7.0,Pagada
+350,2022-03-01,167,10284.0,'transferencia bancaria',240000,90 días,Entre USD 1000 y USD 5000,persona jurídica,7,2022-02-19,2022-03-07,8.0,2.0,Pagada
+351,2022-03-15,173,39825.0,'transferencia bancaria',793000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2022-03-05,2022-04-06,8.0,4.0,Pagada
+352,2022-03-17,231,89600.0,'transferencia bancaria',1235000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-03-07,2022-05-22,19.0,4.0,Pagada
+353,2022-03-23,238,2859.68,'transferencia bancaria',18000,90 días,Menos de USD 1000,persona jurídica,4,2022-03-13,2022-07-05,6.0,19.0,Pagada
+354,2022-03-06,246,17146.0,'cheque',120000,120 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-02-24,2022-04-07,7.0,6.0,Pagada
+355,2022-04-07,251,39459.6,'cheque',835000,120 días,Más de USD 100000,persona jurídica,7,2022-03-28,2022-04-18,21.0,1.0,Pagada
+6,2022-02-06,254,30882.0,'cheque',755000,90 días,Más de USD 100000,persona natural,1,2022-01-27,2022-02-15,1.0,19.0,Pagada
+6,2022-04-25,262,26726.0,'cheque',607000,120 días,Más de USD 100000,persona natural,1,2022-04-15,2022-11-22,17.0,13.0,Cobranza
+358,2022-04-02,269,37996.0,'cheque',469000,30 días,Más de USD 100000,persona natural,3,2022-03-23,2022-10-17,16.0,13.0,Cobranza
+359,2022-03-01,273,3576.0,'cheque',93000,120 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-02-19,2022-05-20,10.0,9.0,Pagada
+360,2022-08-03,2,1596.0,'cheque',33000,60 días,Menos de USD 1000,persona jurídica,7,2022-07-24,2022-12-03,11.0,12.0,En remate
+2,2022-08-27,3,19152.0,'cheque',409000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-08-17,2022-12-15,12.0,10.0,En remate
+362,2022-07-17,4,6354.0,'cheque',68000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-07-07,2022-09-30,17.0,5.0,En remate
+363,2022-05-28,5,9729.72,'cheque',214000,120 días,Entre USD 20000 y USD 100000,persona natural,3,2022-05-18,2022-08-31,7.0,15.0,En remate
+364,2022-05-14,7,3598.0,'transferencia bancaria',68000,60 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-05-04,2022-05-16,2.0,6.0,En remate
+5,2022-06-04,8,28182.0,'cheque',191000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-05-25,2022-06-02,2.0,4.0,En remate
+366,2022-01-27,10,39367.0,'transferencia bancaria',635000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-01-17,2022-02-26,4.0,10.0,En remate
+367,2022-01-05,11,729.0,'transferencia bancaria',12000,120 días,Menos de USD 1000,persona jurídica,8,2021-12-26,2022-06-24,15.0,12.0,En remate
+368,2022-05-25,12,373.13,'transferencia bancaria',4000,120 días,Menos de USD 1000,persona jurídica,5,2022-05-15,2022-07-29,15.0,5.0,En remate
+369,2022-08-27,13,23381.14,'cheque',168000,120 días,Más de USD 100000,persona jurídica,8,2022-08-17,2022-08-29,4.0,3.0,En remate
+370,2022-07-24,14,15491.7,'cheque',372000,120 días,Entre USD 1000 y USD 5000,persona natural,2,2022-07-14,2022-08-16,3.0,11.0,En remate
+6,2022-08-06,16,39964.0,'cheque',286000,30 días,Más de USD 100000,persona natural,1,2022-07-27,2022-11-18,19.0,6.0,En remate
+372,2022-02-21,18,5849.0,'transferencia bancaria',36000,60 días,Entre USD 1000 y USD 5000,persona jurídica,7,2022-02-11,2022-04-22,10.0,7.0,En remate
+5,2022-02-07,20,13137.0,'transferencia bancaria',318000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-01-28,2022-04-29,13.0,7.0,En remate
+374,2022-01-02,21,6028.8,'transferencia bancaria',87000,120 días,Entre USD 1000 y USD 5000,persona natural,5,2021-12-23,2022-03-11,6.0,13.0,En remate
+375,2022-06-15,22,9464.63,'transferencia bancaria',122000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-06-05,2023-02-12,18.0,14.0,En remate
+376,2022-07-01,23,34461.0,'cheque',541000,30 días,Más de USD 100000,persona jurídica,8,2022-06-21,2023-01-27,20.0,11.0,En remate
+377,2022-05-03,24,8075.0,'cheque',174000,90 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-04-23,2022-05-01,1.0,8.0,En remate
+378,2022-04-26,27,26488.0,'transferencia bancaria',399000,90 días,Más de USD 100000,persona jurídica,9,2022-04-16,2022-08-14,12.0,10.0,En remate
+379,2022-02-17,28,89000.14,'cheque',775000,30 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-02-07,2022-02-23,16.0,1.0,En remate
+380,2022-08-06,32,7758.0,'transferencia bancaria',120000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-07-27,2023-06-22,22.0,15.0,En remate
+381,2022-05-15,33,12539.73,'cheque',96000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-05-05,2022-09-02,15.0,8.0,En remate
+2,2022-08-07,34,20503.53,'cheque',232000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-28,2022-10-08,8.0,9.0,En remate
+383,2022-02-18,36,27980.45,'transferencia bancaria',407000,90 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-02-08,2022-05-27,9.0,12.0,En remate
+384,2022-07-06,37,24468.0,'transferencia bancaria',284000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2022-06-26,2022-08-17,13.0,4.0,En remate
+385,2022-01-18,38,8358.0,'cheque',51000,60 días,Entre USD 20000 y USD 100000,persona natural,4,2022-01-08,2022-01-26,18.0,1.0,En remate
+386,2022-06-30,40,3887.68,'transferencia bancaria',94000,120 días,Entre USD 1000 y USD 5000,persona natural,3,2022-06-20,2022-08-25,22.0,3.0,En remate
+387,2022-07-21,43,30550.2,'transferencia bancaria',620000,90 días,Entre USD 20000 y USD 100000,persona jurídica,5,2022-07-11,2022-09-09,5.0,12.0,En remate
+388,2022-06-08,45,20260.0,'transferencia bancaria',209000,60 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-05-29,2022-09-01,19.0,5.0,En remate
+389,2022-04-24,46,17650.0,'cheque',119000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-04-14,2022-05-08,4.0,6.0,En remate
+390,2022-06-08,47,28633.86,'cheque',346000,60 días,Más de USD 100000,persona jurídica,7,2022-05-29,2022-08-17,20.0,4.0,En remate
+391,2022-05-03,48,36433.34,'transferencia bancaria',491000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-04-23,2023-02-06,17.0,17.0,En remate
+392,2022-06-21,49,29227.0,'cheque',628000,120 días,Más de USD 100000,persona natural,5,2022-06-11,2022-06-12,1.0,1.0,En remate
+393,2022-08-03,50,11713.24,'transferencia bancaria',188000,60 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-07-24,2022-11-21,12.0,10.0,En remate
+394,2022-05-31,51,10528.2,'transferencia bancaria',93000,30 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-05-21,2022-12-27,20.0,11.0,En remate
+395,2022-03-08,52,31426.95,'cheque',672000,120 días,Más de USD 100000,persona jurídica,9,2022-02-26,2022-11-25,16.0,17.0,En remate
+396,2022-01-20,53,18520.0,'transferencia bancaria',434000,120 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-01-10,2022-03-17,11.0,6.0,En remate
+397,2022-03-25,55,8059.0,'transferencia bancaria',50000,30 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-03-15,2022-08-02,20.0,7.0,En remate
+398,2022-06-18,56,1590.85,'transferencia bancaria',34000,60 días,Entre USD 1000 y USD 5000,persona jurídica,4,2022-06-08,2022-09-26,22.0,5.0,En remate
+399,2022-07-02,57,29887.48,'cheque',604000,120 días,Más de USD 100000,persona natural,4,2022-06-22,2022-09-14,12.0,7.0,En remate
+400,2022-07-17,58,2074.0,'cheque',49000,60 días,Entre USD 1000 y USD 5000,persona jurídica,7,2022-07-07,2022-11-04,15.0,8.0,En remate
+401,2022-03-02,59,23116.27,'cheque',563000,120 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-02-20,2022-08-26,17.0,11.0,En remate
+402,2022-07-31,61,25551.0,'transferencia bancaria',662000,120 días,Más de USD 100000,persona jurídica,10,2022-07-21,2022-09-07,4.0,12.0,En remate
+5,2022-02-04,62,10414.0,'transferencia bancaria',268000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-01-25,2022-07-24,18.0,10.0,En remate
+404,2022-02-04,63,32528.0,'cheque',534000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-01-25,2022-07-04,20.0,8.0,En remate
+405,2022-04-15,66,21650.93,'transferencia bancaria',224000,120 días,Más de USD 100000,persona jurídica,6,2022-04-05,2022-06-22,6.0,13.0,En remate
+2,2022-05-06,67,8871.0,'transferencia bancaria',136000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-04-26,2022-07-05,14.0,5.0,En remate
+407,2022-05-07,75,17458.69,'transferencia bancaria',231000,60 días,Entre USD 1000 y USD 5000,persona natural,4,2022-04-27,2022-07-26,5.0,18.0,En remate
+408,2022-07-25,76,75700.19,'cheque',1569000,30 días,Más de USD 100000,persona jurídica,9,2022-07-15,2022-09-10,19.0,3.0,En remate
+409,2022-04-03,78,33699.22,'transferencia bancaria',798000,90 días,Más de USD 100000,persona natural,3,2022-03-24,2022-03-26,1.0,2.0,En remate
+410,2022-02-08,80,26540.0,'cheque',486000,30 días,Más de USD 100000,persona jurídica,7,2022-01-29,2022-02-22,8.0,3.0,En remate
+411,2022-02-05,82,19654.0,'transferencia bancaria',199000,30 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-01-26,2022-06-10,9.0,15.0,En remate
+412,2022-05-21,83,29863.0,'transferencia bancaria',536000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-05-11,2022-08-04,17.0,5.0,En remate
+413,2022-04-26,88,6756.17,'cheque',105000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-04-16,2023-01-07,19.0,14.0,En remate
+5,2022-07-22,89,12647.64,'cheque',334000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-07-12,2022-10-18,7.0,14.0,En remate
+415,2022-07-07,90,37682.37,'cheque',983000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-06-27,2022-09-07,6.0,12.0,En remate
+416,2022-01-06,91,35430.0,'transferencia bancaria',700000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2021-12-27,2022-01-08,12.0,1.0,En remate
+417,2022-06-14,92,9756.11,'transferencia bancaria',199000,90 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-06-04,2022-08-27,6.0,14.0,En remate
+418,2022-01-21,94,18575.73,'cheque',427000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-01-11,2022-11-06,23.0,13.0,En remate
+419,2022-06-07,97,21450.0,'transferencia bancaria',172000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-05-28,2022-07-13,23.0,2.0,En remate
+420,2022-08-28,99,38109.26,'transferencia bancaria',713000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-08-18,2022-11-16,9.0,10.0,En remate
+2,2022-07-24,100,10899.63,'transferencia bancaria',200000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-14,2023-01-17,17.0,11.0,En remate
+422,2022-05-14,101,23845.35,'transferencia bancaria',613000,120 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-05-04,2022-08-22,11.0,10.0,En remate
+423,2022-01-15,103,25731.88,'transferencia bancaria',609000,120 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-01-05,2022-04-25,10.0,11.0,En remate
+424,2022-04-25,104,3316.26,'transferencia bancaria',34000,60 días,Menos de USD 1000,persona jurídica,4,2022-04-15,2022-04-19,4.0,1.0,En remate
+5,2022-08-27,105,11537.19,'transferencia bancaria',300000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-08-17,2022-09-19,3.0,11.0,En remate
+2,2022-02-06,106,10551.0,'cheque',134000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-01-27,2022-03-04,3.0,12.0,En remate
+6,2022-06-28,107,35747.93,'transferencia bancaria',478000,120 días,Más de USD 100000,persona natural,1,2022-06-18,2022-07-11,23.0,1.0,En remate
+2,2022-07-16,109,9333.22,'cheque',96000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-06,2022-08-05,3.0,10.0,En remate
+429,2022-06-22,110,17088.0,'cheque',154000,120 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-06-12,2023-05-01,19.0,17.0,En remate
+430,2022-04-21,118,30553.0,'transferencia bancaria',526000,60 días,Más de USD 100000,persona natural,3,2022-04-11,2022-11-01,12.0,17.0,En remate
+431,2022-08-22,119,10619.98,'cheque',194000,120 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-08-12,2023-01-21,18.0,9.0,En remate
+432,2022-06-06,120,23612.26,'transferencia bancaria',251000,30 días,Más de USD 100000,persona jurídica,7,2022-05-27,2023-01-10,12.0,19.0,En remate
+433,2022-02-03,121,21566.0,'transferencia bancaria',528000,60 días,Entre USD 20000 y USD 100000,persona natural,5,2022-01-24,2022-08-21,19.0,11.0,En remate
+434,2022-03-23,125,18549.19,'cheque',453000,60 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-03-13,2022-06-05,12.0,7.0,En remate
+435,2022-05-28,134,31646.0,'transferencia bancaria',730000,120 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-05-18,2022-06-01,1.0,14.0,En remate
+436,2022-06-24,135,26123.77,'transferencia bancaria',247000,90 días,Más de USD 100000,persona jurídica,9,2022-06-14,2022-07-02,18.0,1.0,En remate
+437,2022-07-17,137,28209.78,'cheque',236000,120 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-07-07,2022-10-20,7.0,15.0,En remate
+438,2022-04-30,138,27415.91,'transferencia bancaria',544000,30 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-04-20,2023-01-15,18.0,15.0,En remate
+439,2022-03-02,139,9482.6,'transferencia bancaria',95000,60 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-02-20,2022-04-13,4.0,13.0,En remate
+2,2022-03-03,148,33811.85,'transferencia bancaria',832000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-02-21,2022-03-11,1.0,18.0,En remate
+441,2022-04-01,150,20712.11,'cheque',444000,90 días,Más de USD 100000,persona jurídica,10,2022-03-22,2022-12-27,20.0,14.0,En remate
+442,2022-01-26,152,4581.57,'transferencia bancaria',68000,60 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-01-16,2022-03-03,23.0,2.0,En remate
+443,2022-01-03,157,34970.0,'transferencia bancaria',412000,30 días,Más de USD 100000,persona jurídica,8,2021-12-24,2022-11-12,19.0,17.0,En remate
+444,2022-03-28,159,16062.88,'cheque',420000,60 días,Entre USD 20000 y USD 100000,persona natural,4,2022-03-18,2022-08-01,8.0,17.0,En remate
+445,2022-08-23,162,13914.95,'cheque',170000,30 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-08-13,2023-05-04,22.0,12.0,En remate
+446,2022-02-20,163,29531.33,'cheque',692000,120 días,Más de USD 100000,persona natural,4,2022-02-10,2022-04-07,14.0,4.0,En remate
+1,2022-01-03,164,7424.0,'cheque',98000,120 días,Entre USD 1000 y USD 5000,persona natural,1,2021-12-24,2022-04-13,11.0,10.0,En remate
+448,2022-08-04,165,5509.0,'transferencia bancaria',89000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-07-25,2022-08-24,6.0,5.0,En remate
+2,2022-07-22,168,39925.0,'cheque',507000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-12,2023-01-04,11.0,16.0,En remate
+6,2022-05-02,171,21147.46,'cheque',368000,90 días,Más de USD 100000,persona natural,1,2022-04-22,2022-07-07,4.0,19.0,En remate
+451,2022-08-21,172,2979.0,'transferencia bancaria',51000,60 días,Entre USD 1000 y USD 5000,persona natural,2,2022-08-11,2023-09-06,23.0,17.0,En remate
+452,2022-04-20,176,33193.0,'cheque',657000,120 días,Más de USD 100000,persona jurídica,5,2022-04-10,2022-04-20,5.0,2.0,En remate
+453,2022-08-21,179,29664.11,'transferencia bancaria',749000,120 días,Más de USD 100000,persona jurídica,9,2022-08-11,2023-01-02,9.0,16.0,En remate
+454,2022-03-13,181,10983.0,'cheque',221000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-03-03,2022-03-31,4.0,7.0,En remate
+455,2022-04-02,182,7614.12,'transferencia bancaria',68000,90 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-03-23,2022-07-21,10.0,12.0,En remate
+456,2022-05-15,184,3669.1,'cheque',86000,60 días,Entre USD 1000 y USD 5000,persona jurídica,9,2022-05-05,2022-10-14,9.0,18.0,En remate
+457,2022-05-26,187,6742.0,'cheque',118000,90 días,Entre USD 1000 y USD 5000,persona natural,2,2022-05-16,2022-05-22,3.0,2.0,En remate
+458,2022-05-23,191,25309.52,'transferencia bancaria',512000,60 días,Más de USD 100000,persona natural,4,2022-05-13,2023-03-13,19.0,16.0,En remate
+459,2022-03-27,193,33647.0,'transferencia bancaria',653000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-03-17,2022-06-05,20.0,4.0,En remate
+460,2022-04-08,194,28583.52,'transferencia bancaria',350000,30 días,Entre USD 5000 y USD 20000,persona natural,3,2022-03-29,2022-06-07,7.0,10.0,En remate
+1,2022-04-21,195,15556.98,'transferencia bancaria',300000,90 días,Entre USD 1000 y USD 5000,persona natural,1,2022-04-11,2022-10-08,18.0,10.0,En remate
+5,2022-06-07,196,13168.0,'cheque',352000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-05-28,2022-08-26,18.0,5.0,En remate
+463,2022-01-17,198,13510.0,'cheque',317000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-01-07,2022-03-28,8.0,10.0,En remate
+464,2022-05-08,201,20371.0,'transferencia bancaria',471000,120 días,Más de USD 100000,persona jurídica,6,2022-04-28,2022-07-06,23.0,3.0,En remate
+465,2022-08-14,202,31608.99,'transferencia bancaria',486000,90 días,Más de USD 100000,persona natural,2,2022-08-04,2022-08-24,10.0,2.0,En remate
+466,2022-08-14,203,31160.4,'transferencia bancaria',243000,120 días,Más de USD 100000,persona natural,2,2022-08-04,2022-11-08,6.0,16.0,En remate
+467,2022-05-20,204,5429.0,'transferencia bancaria',53000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-05-10,2022-09-07,15.0,8.0,En remate
+468,2022-07-31,205,369.0,'cheque',7000,120 días,Menos de USD 1000,persona jurídica,4,2022-07-21,2022-10-25,12.0,8.0,En remate
+469,2022-07-22,207,5973.0,'transferencia bancaria',41000,90 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-07-12,2022-11-24,9.0,15.0,En remate
+470,2022-07-23,209,1458.9,'transferencia bancaria',23000,60 días,Menos de USD 1000,persona jurídica,7,2022-07-13,2022-07-25,12.0,1.0,En remate
+471,2022-02-01,211,34221.24,'cheque',420000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-01-22,2022-04-02,5.0,14.0,En remate
+472,2022-08-23,212,37422.0,'cheque',452000,120 días,Entre USD 20000 y USD 100000,persona jurídica,8,2022-08-13,2022-10-30,6.0,13.0,En remate
+473,2022-02-05,217,25189.87,'cheque',629000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-01-26,2022-04-06,14.0,5.0,En remate
+474,2022-06-08,218,14791.0,'cheque',304000,120 días,Entre USD 20000 y USD 100000,persona natural,3,2022-05-29,2022-07-08,20.0,2.0,En remate
+5,2022-06-14,219,22567.0,'cheque',471000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-06-04,2022-09-02,18.0,5.0,En remate
+476,2022-08-25,220,37239.0,'cheque',470000,120 días,Más de USD 100000,persona jurídica,10,2022-08-15,2023-01-24,9.0,18.0,En remate
+477,2022-02-07,221,14132.4,'cheque',240000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-01-28,2022-02-19,11.0,2.0,En remate
+478,2022-07-04,222,5870.4,'transferencia bancaria',135000,60 días,Entre USD 1000 y USD 5000,persona natural,4,2022-06-24,2022-08-14,3.0,17.0,En remate
+479,2022-08-17,223,39712.25,'transferencia bancaria',361000,120 días,Más de USD 100000,persona jurídica,9,2022-08-07,2022-09-03,3.0,9.0,En remate
+480,2022-03-07,225,18375.0,'cheque',287000,30 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-02-25,2022-07-31,12.0,13.0,En remate
+2,2022-01-02,226,10904.38,'cheque',124000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2021-12-23,2022-04-06,13.0,8.0,En remate
+482,2022-01-30,227,14349.0,'cheque',256000,60 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-01-20,2022-02-05,8.0,2.0,En remate
+483,2022-03-07,228,21132.35,'transferencia bancaria',480000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-02-25,2022-04-26,15.0,4.0,En remate
+484,2022-06-25,229,20143.0,'transferencia bancaria',325000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-06-15,2022-10-25,12.0,11.0,En remate
+485,2022-04-17,230,7469.0,'transferencia bancaria',131000,120 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-04-07,2022-10-22,18.0,11.0,En remate
+486,2022-07-01,232,24758.0,'transferencia bancaria',459000,120 días,Más de USD 100000,persona jurídica,5,2022-06-21,2022-07-06,1.0,15.0,En remate
+487,2022-08-15,233,39565.97,'transferencia bancaria',895000,120 días,Entre USD 5000 y USD 20000,persona natural,4,2022-08-05,2022-11-13,20.0,5.0,En remate
+488,2022-06-27,236,14611.0,'cheque',295000,90 días,Entre USD 20000 y USD 100000,persona jurídica,8,2022-06-17,2022-12-14,18.0,10.0,En remate
+489,2022-07-17,237,5653.5,'transferencia bancaria',145000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-07-07,2022-08-12,9.0,4.0,En remate
+490,2022-01-21,239,18259.59,'cheque',236000,60 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-01-11,2022-01-23,12.0,1.0,En remate
+491,2022-05-28,245,5836.0,'transferencia bancaria',116000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-05-18,2022-05-28,1.0,10.0,En remate
+492,2022-07-02,247,34368.73,'transferencia bancaria',300000,120 días,Más de USD 100000,persona jurídica,9,2022-06-22,2022-08-03,14.0,3.0,En remate
+493,2022-06-17,252,39776.0,'cheque',278000,120 días,Entre USD 5000 y USD 20000,persona natural,3,2022-06-07,2022-09-20,21.0,5.0,En remate
+494,2022-08-02,255,14356.0,'cheque',278000,30 días,Entre USD 20000 y USD 100000,persona natural,5,2022-07-23,2022-08-22,15.0,2.0,En remate
+495,2022-02-15,256,14489.47,'transferencia bancaria',323000,30 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-02-05,2022-07-08,17.0,9.0,En remate
+496,2022-03-02,257,23237.0,'cheque',225000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-02-20,2022-03-13,3.0,7.0,En remate
+2,2022-08-17,258,9598.0,'cheque',68000,120 días,Entre USD 20000 y USD 100000,persona jurídica,1,2022-08-07,2022-11-07,23.0,4.0,En remate
+498,2022-08-26,264,8046.0,'cheque',137000,120 días,Entre USD 1000 y USD 5000,persona natural,3,2022-08-16,2022-11-04,8.0,10.0,En remate
+499,2022-07-16,265,16273.42,'transferencia bancaria',304000,90 días,Entre USD 5000 y USD 20000,persona natural,2,2022-07-06,2022-09-28,14.0,6.0,En remate
+7,2022-03-26,266,491.0,'cheque',12000,60 días,Menos de USD 1000,persona jurídica,1,2022-03-16,2022-08-23,16.0,10.0,En remate
+501,2022-03-20,267,21084.0,'transferencia bancaria',564000,60 días,Entre USD 5000 y USD 20000,persona natural,4,2022-03-10,2022-04-03,3.0,8.0,En remate
+502,2022-05-31,268,9040.0,'cheque',92000,90 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-05-21,2022-08-05,19.0,4.0,En remate
+503,2022-01-31,272,28659.47,'transferencia bancaria',509000,30 días,Entre USD 5000 y USD 20000,persona natural,2,2022-01-21,2022-03-28,22.0,3.0,En remate
+504,2022-05-08,275,23313.0,'cheque',489000,60 días,Más de USD 100000,persona jurídica,9,2022-04-28,2022-05-07,3.0,3.0,En remate
+505,2022-03-03,277,35699.39,'transferencia bancaria',293000,90 días,Entre USD 5000 y USD 20000,persona natural,4,2022-02-21,2022-08-08,21.0,8.0,En remate
+1,2022-08-02,278,18154.69,'transferencia bancaria',232000,90 días,Entre USD 1000 y USD 5000,persona natural,1,2022-07-23,2023-02-17,19.0,11.0,En remate
+507,2022-05-17,280,34233.72,'cheque',483000,30 días,Entre USD 20000 y USD 100000,persona natural,3,2022-05-07,2022-07-21,15.0,5.0,En remate
+508,2022-02-04,281,18987.1,'cheque',130000,90 días,Entre USD 1000 y USD 5000,persona natural,3,2022-01-25,2022-02-12,2.0,9.0,En remate
+509,2022-05-08,283,13919.11,'transferencia bancaria',109000,60 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-04-28,2022-05-08,5.0,2.0,En remate
+510,2022-01-16,286,14816.0,'transferencia bancaria',280000,60 días,Entre USD 1000 y USD 5000,persona natural,5,2022-01-06,2023-01-15,22.0,17.0,En remate
+511,2022-07-21,289,22240.0,'cheque',525000,90 días,Más de USD 100000,persona jurídica,7,2022-07-11,2022-08-06,13.0,2.0,En remate
+512,2022-04-27,292,21685.23,'cheque',352000,120 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-04-17,2022-06-21,13.0,5.0,En remate
+513,2022-07-03,295,19956.0,'transferencia bancaria',201000,30 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-06-23,2022-07-25,4.0,8.0,En remate
+5,2022-01-20,296,22249.42,'cheque',348000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-01-10,2022-02-21,21.0,2.0,En remate
+515,2022-08-04,2,1596.0,'cheque',33000,60 días,Menos de USD 1000,persona jurídica,7,2022-07-25,2022-12-04,11.0,12.0,En remate
+2,2022-08-30,3,19152.0,'cheque',409000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-08-20,2022-12-18,12.0,10.0,En remate
+517,2022-07-18,4,6354.0,'cheque',68000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-07-08,2022-10-01,17.0,5.0,En remate
+518,2022-05-27,5,9729.72,'cheque',214000,120 días,Entre USD 20000 y USD 100000,persona natural,3,2022-05-17,2022-08-30,7.0,15.0,En remate
+519,2022-05-15,7,3598.0,'transferencia bancaria',68000,60 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-05-05,2022-05-17,2.0,6.0,En remate
+5,2022-06-05,8,28182.0,'cheque',191000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-05-26,2022-06-03,2.0,4.0,En remate
+521,2022-01-28,10,39367.0,'transferencia bancaria',635000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-01-18,2022-02-27,4.0,10.0,En remate
+522,2022-01-06,11,729.0,'transferencia bancaria',12000,120 días,Menos de USD 1000,persona jurídica,8,2021-12-27,2022-06-25,15.0,12.0,En remate
+523,2022-05-26,12,373.13,'transferencia bancaria',4000,120 días,Menos de USD 1000,persona jurídica,5,2022-05-16,2022-07-30,15.0,5.0,En remate
+524,2022-08-28,13,23381.14,'cheque',168000,120 días,Más de USD 100000,persona jurídica,8,2022-08-18,2022-08-30,4.0,3.0,En remate
+525,2022-07-25,14,15491.7,'cheque',372000,120 días,Entre USD 1000 y USD 5000,persona natural,2,2022-07-15,2022-08-17,3.0,11.0,En remate
+6,2022-08-13,16,39964.0,'cheque',286000,30 días,Más de USD 100000,persona natural,1,2022-08-03,2022-11-25,19.0,6.0,En remate
+527,2022-02-22,18,5849.0,'transferencia bancaria',36000,60 días,Entre USD 1000 y USD 5000,persona jurídica,7,2022-02-12,2022-04-23,10.0,7.0,En remate
+5,2022-02-02,20,13137.0,'transferencia bancaria',318000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-01-23,2022-04-24,13.0,7.0,Avance
+529,2022-01-03,21,6028.8,'transferencia bancaria',87000,120 días,Entre USD 1000 y USD 5000,persona natural,5,2021-12-24,2022-03-12,6.0,13.0,Avance
+530,2022-06-16,22,9464.63,'transferencia bancaria',122000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-06-06,2023-02-13,18.0,14.0,Avance
+531,2022-07-02,23,34461.0,'cheque',541000,30 días,Más de USD 100000,persona jurídica,8,2022-06-22,2023-01-28,20.0,11.0,Avance
+532,2022-05-04,24,8075.0,'cheque',174000,90 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-04-24,2022-05-02,1.0,8.0,Avance
+533,2022-04-27,27,26488.0,'transferencia bancaria',399000,90 días,Más de USD 100000,persona jurídica,9,2022-04-17,2022-08-15,12.0,10.0,Avance
+534,2022-02-18,28,89000.14,'cheque',775000,30 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-02-08,2022-02-24,16.0,1.0,Avance
+535,2022-08-07,32,7758.0,'transferencia bancaria',120000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-07-28,2023-06-23,22.0,15.0,Avance
+536,2022-05-16,33,12539.73,'cheque',96000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-05-06,2022-09-03,15.0,8.0,Avance
+2,2022-08-08,34,20503.53,'cheque',232000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-29,2022-10-09,8.0,9.0,Avance
+538,2022-02-17,36,27980.45,'transferencia bancaria',407000,90 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-02-07,2022-05-26,9.0,12.0,Avance
+539,2022-07-07,37,24468.0,'transferencia bancaria',284000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2022-06-27,2022-08-18,13.0,4.0,Avance
+540,2022-01-17,38,8358.0,'cheque',51000,60 días,Entre USD 20000 y USD 100000,persona natural,4,2022-01-07,2022-01-25,18.0,1.0,Avance
+541,2022-07-01,40,3887.68,'transferencia bancaria',94000,120 días,Entre USD 1000 y USD 5000,persona natural,3,2022-06-21,2022-08-26,22.0,3.0,Avance
+542,2022-07-22,43,30550.2,'transferencia bancaria',620000,90 días,Entre USD 20000 y USD 100000,persona jurídica,5,2022-07-12,2022-09-10,5.0,12.0,Avance
+543,2022-06-07,45,20260.0,'transferencia bancaria',209000,60 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-05-28,2022-08-31,19.0,5.0,Avance
+544,2022-04-25,46,17650.0,'cheque',119000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-04-15,2022-05-09,4.0,6.0,Avance
+545,2022-06-07,47,28633.86,'cheque',346000,60 días,Más de USD 100000,persona jurídica,7,2022-05-28,2022-08-16,20.0,4.0,Avance
+546,2022-05-04,48,36433.34,'transferencia bancaria',491000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-04-24,2023-02-07,17.0,17.0,Avance
+547,2022-06-22,49,29227.0,'cheque',628000,120 días,Más de USD 100000,persona natural,5,2022-06-12,2022-06-13,1.0,1.0,Avance
+548,2022-08-04,50,11713.24,'transferencia bancaria',188000,60 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-07-25,2022-11-22,12.0,10.0,Avance
+549,2022-06-01,51,10528.2,'transferencia bancaria',93000,30 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-05-22,2022-12-28,20.0,11.0,Avance
+550,2022-03-07,52,31426.95,'cheque',672000,120 días,Más de USD 100000,persona jurídica,9,2022-02-25,2022-11-24,16.0,17.0,Avance
+551,2022-01-21,53,18520.0,'transferencia bancaria',434000,120 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-01-11,2022-03-18,11.0,6.0,Avance
+552,2022-03-26,55,8059.0,'transferencia bancaria',50000,30 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-03-16,2022-08-03,20.0,7.0,Avance
+553,2022-06-17,56,1590.85,'transferencia bancaria',34000,60 días,Entre USD 1000 y USD 5000,persona jurídica,4,2022-06-07,2022-09-25,22.0,5.0,Avance
+554,2022-07-03,57,29887.48,'cheque',604000,120 días,Más de USD 100000,persona natural,4,2022-06-23,2022-09-15,12.0,7.0,Avance
+555,2022-07-20,58,2074.0,'cheque',49000,60 días,Entre USD 1000 y USD 5000,persona jurídica,7,2022-07-10,2022-11-07,15.0,8.0,Avance
+556,2022-03-03,59,23116.27,'cheque',563000,120 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-02-21,2022-08-27,17.0,11.0,Avance
+557,2022-08-01,61,25551.0,'transferencia bancaria',662000,120 días,Más de USD 100000,persona jurídica,10,2022-07-22,2022-09-08,4.0,12.0,Avance
+5,2022-02-05,62,10414.0,'transferencia bancaria',268000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-01-26,2022-07-25,18.0,10.0,Avance
+559,2022-02-05,63,32528.0,'cheque',534000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-01-26,2022-07-05,20.0,8.0,Avance
+560,2022-04-16,66,21650.93,'transferencia bancaria',224000,120 días,Más de USD 100000,persona jurídica,6,2022-04-06,2022-06-23,6.0,13.0,Avance
+2,2022-05-07,67,8871.0,'transferencia bancaria',136000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-04-27,2022-07-06,14.0,5.0,Avance
+562,2022-05-08,75,17458.69,'transferencia bancaria',231000,60 días,Entre USD 1000 y USD 5000,persona natural,4,2022-04-28,2022-07-27,5.0,18.0,Avance
+563,2022-07-26,76,75700.19,'cheque',1569000,30 días,Más de USD 100000,persona jurídica,9,2022-07-16,2022-09-11,19.0,3.0,Avance
+564,2022-04-04,78,33699.22,'transferencia bancaria',798000,90 días,Más de USD 100000,persona natural,3,2022-03-25,2022-03-27,1.0,2.0,Avance
+565,2022-02-07,80,26540.0,'cheque',486000,30 días,Más de USD 100000,persona jurídica,7,2022-01-28,2022-02-21,8.0,3.0,Avance
+566,2022-02-06,82,19654.0,'transferencia bancaria',199000,30 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-01-27,2022-06-11,9.0,15.0,Avance
+567,2022-05-22,83,29863.0,'transferencia bancaria',536000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-05-12,2022-08-05,17.0,5.0,Avance
+568,2022-04-27,88,6756.17,'cheque',105000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-04-17,2023-01-08,19.0,14.0,Avance
+5,2022-07-23,89,12647.64,'cheque',334000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-07-13,2022-10-19,7.0,14.0,Avance
+570,2022-07-02,90,37682.37,'cheque',983000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-06-22,2022-09-02,6.0,12.0,Avance
+571,2022-01-13,91,35430.0,'transferencia bancaria',700000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-01-03,2022-01-15,12.0,1.0,Avance
+572,2022-06-15,92,9756.11,'transferencia bancaria',199000,90 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-06-05,2022-08-28,6.0,14.0,Avance
+573,2022-01-22,94,18575.73,'cheque',427000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-01-12,2022-11-07,23.0,13.0,Avance
+574,2022-06-08,97,21450.0,'transferencia bancaria',172000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-05-29,2022-07-14,23.0,2.0,Avance
+575,2022-08-27,99,38109.26,'transferencia bancaria',713000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-08-17,2022-11-15,9.0,10.0,Avance
+2,2022-07-25,100,10899.63,'transferencia bancaria',200000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-15,2023-01-18,17.0,11.0,Avance
+577,2022-05-15,101,23845.35,'transferencia bancaria',613000,120 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-05-05,2022-08-23,11.0,10.0,Avance
+578,2022-01-16,103,25731.88,'transferencia bancaria',609000,120 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-01-06,2022-04-26,10.0,11.0,Avance
+579,2022-04-26,104,3316.26,'transferencia bancaria',34000,60 días,Menos de USD 1000,persona jurídica,4,2022-04-16,2022-04-20,4.0,1.0,Avance
+5,2022-08-28,105,11537.19,'transferencia bancaria',300000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-08-18,2022-09-20,3.0,11.0,Avance
+2,2022-02-07,106,10551.0,'cheque',134000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-01-28,2022-03-05,3.0,12.0,Avance
+6,2022-06-27,107,35747.93,'transferencia bancaria',478000,120 días,Más de USD 100000,persona natural,1,2022-06-17,2022-07-10,23.0,1.0,Avance
+2,2022-07-17,109,9333.22,'cheque',96000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-07,2022-08-06,3.0,10.0,Avance
+584,2022-06-23,110,17088.0,'cheque',154000,120 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-06-13,2023-05-02,19.0,17.0,Avance
+585,2022-04-22,118,30553.0,'transferencia bancaria',526000,60 días,Más de USD 100000,persona natural,3,2022-04-12,2022-11-02,12.0,17.0,Avance
+586,2022-08-23,119,10619.98,'cheque',194000,120 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-08-13,2023-01-22,18.0,9.0,Avance
+587,2022-06-07,120,23612.26,'transferencia bancaria',251000,30 días,Más de USD 100000,persona jurídica,7,2022-05-28,2023-01-11,12.0,19.0,Avance
+588,2022-02-06,121,21566.0,'transferencia bancaria',528000,60 días,Entre USD 20000 y USD 100000,persona natural,5,2022-01-27,2022-08-24,19.0,11.0,Avance
+589,2022-03-24,125,18549.19,'cheque',453000,60 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-03-14,2022-06-06,12.0,7.0,Avance
+590,2022-05-27,134,31646.0,'transferencia bancaria',730000,120 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-05-17,2022-05-31,1.0,14.0,Avance
+591,2022-06-25,135,26123.77,'transferencia bancaria',247000,90 días,Más de USD 100000,persona jurídica,9,2022-06-15,2022-07-03,18.0,1.0,Avance
+592,2022-07-18,137,28209.78,'cheque',236000,120 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-07-08,2022-10-21,7.0,15.0,Avance
+593,2022-05-01,138,27415.91,'transferencia bancaria',544000,30 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-04-21,2023-01-16,18.0,15.0,Avance
+594,2022-03-03,139,9482.6,'transferencia bancaria',95000,60 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-02-21,2022-04-14,4.0,13.0,Avance
+2,2022-03-06,148,33811.85,'transferencia bancaria',832000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-02-24,2022-03-14,1.0,18.0,Avance
+596,2022-04-02,150,20712.11,'cheque',444000,90 días,Más de USD 100000,persona jurídica,10,2022-03-23,2022-12-28,20.0,14.0,Avance
+597,2022-01-27,152,4581.57,'transferencia bancaria',68000,60 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-01-17,2022-03-04,23.0,2.0,Avance
+598,2022-01-06,157,34970.0,'transferencia bancaria',412000,30 días,Más de USD 100000,persona jurídica,8,2021-12-27,2022-11-15,19.0,17.0,Avance
+599,2022-03-27,159,16062.88,'cheque',420000,60 días,Entre USD 20000 y USD 100000,persona natural,4,2022-03-17,2022-07-31,8.0,17.0,Avance
+600,2022-08-24,162,13914.95,'cheque',170000,30 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-08-14,2023-05-05,22.0,12.0,Avance
+601,2022-02-21,163,29531.33,'cheque',692000,120 días,Más de USD 100000,persona natural,4,2022-02-11,2022-04-08,14.0,4.0,Avance
+1,2022-01-06,164,7424.0,'cheque',98000,120 días,Entre USD 1000 y USD 5000,persona natural,1,2021-12-27,2022-04-16,11.0,10.0,Avance
+603,2022-08-05,165,5509.0,'transferencia bancaria',89000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-07-26,2022-08-25,6.0,5.0,Avance
+2,2022-07-23,168,39925.0,'cheque',507000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-13,2023-01-05,11.0,16.0,Avance
+6,2022-05-03,171,21147.46,'cheque',368000,90 días,Más de USD 100000,persona natural,1,2022-04-23,2022-07-08,4.0,19.0,Avance
+606,2022-08-22,172,2979.0,'transferencia bancaria',51000,60 días,Entre USD 1000 y USD 5000,persona natural,2,2022-08-12,2023-09-07,23.0,17.0,Avance
+607,2022-04-21,176,33193.0,'cheque',657000,120 días,Más de USD 100000,persona jurídica,5,2022-04-11,2022-04-21,5.0,2.0,Avance
+608,2022-08-22,179,29664.11,'transferencia bancaria',749000,120 días,Más de USD 100000,persona jurídica,9,2022-08-12,2023-01-03,9.0,16.0,Avance
+609,2022-03-14,181,10983.0,'cheque',221000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-03-04,2022-04-01,4.0,7.0,Avance
+610,2022-04-03,182,7614.12,'transferencia bancaria',68000,90 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-03-24,2022-07-22,10.0,12.0,Avance
+611,2022-05-16,184,3669.1,'cheque',86000,60 días,Entre USD 1000 y USD 5000,persona jurídica,9,2022-05-06,2022-10-15,9.0,18.0,Avance
+612,2022-05-27,187,6742.0,'cheque',118000,90 días,Entre USD 1000 y USD 5000,persona natural,2,2022-05-17,2022-05-23,3.0,2.0,Avance
+613,2022-05-24,191,25309.52,'transferencia bancaria',512000,60 días,Más de USD 100000,persona natural,4,2022-05-14,2023-03-14,19.0,16.0,Avance
+614,2022-03-28,193,33647.0,'transferencia bancaria',653000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-03-18,2022-06-06,20.0,4.0,Avance
+615,2022-04-07,194,28583.52,'transferencia bancaria',350000,30 días,Entre USD 5000 y USD 20000,persona natural,3,2022-03-28,2022-06-06,7.0,10.0,Avance
+1,2022-04-22,195,15556.98,'transferencia bancaria',300000,90 días,Entre USD 1000 y USD 5000,persona natural,1,2022-04-12,2022-10-09,18.0,10.0,Avance
+5,2022-06-08,196,13168.0,'cheque',352000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-05-29,2022-08-27,18.0,5.0,Avance
+618,2022-01-20,198,13510.0,'cheque',317000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-01-10,2022-03-31,8.0,10.0,Avance
+619,2022-05-07,201,20371.0,'transferencia bancaria',471000,120 días,Más de USD 100000,persona jurídica,6,2022-04-27,2022-07-05,23.0,3.0,Avance
+620,2022-08-15,202,31608.99,'transferencia bancaria',486000,90 días,Más de USD 100000,persona natural,2,2022-08-05,2022-08-25,10.0,2.0,Avance
+621,2022-08-15,203,31160.4,'transferencia bancaria',243000,120 días,Más de USD 100000,persona natural,2,2022-08-05,2022-11-09,6.0,16.0,Avance
+622,2022-05-21,204,5429.0,'transferencia bancaria',53000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-05-11,2022-09-08,15.0,8.0,Avance
+623,2022-08-01,205,369.0,'cheque',7000,120 días,Menos de USD 1000,persona jurídica,4,2022-07-22,2022-10-26,12.0,8.0,Avance
+624,2022-07-23,207,5973.0,'transferencia bancaria',41000,90 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-07-13,2022-11-25,9.0,15.0,Avance
+625,2022-07-24,209,1458.9,'transferencia bancaria',23000,60 días,Menos de USD 1000,persona jurídica,7,2022-07-14,2022-07-26,12.0,1.0,Avance
+626,2022-02-02,211,34221.24,'cheque',420000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-01-23,2022-04-03,5.0,14.0,Avance
+627,2022-08-24,212,37422.0,'cheque',452000,120 días,Entre USD 20000 y USD 100000,persona jurídica,8,2022-08-14,2022-10-31,6.0,13.0,Avance
+628,2022-02-06,217,25189.87,'cheque',629000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-01-27,2022-04-07,14.0,5.0,Avance
+629,2022-06-07,218,14791.0,'cheque',304000,120 días,Entre USD 20000 y USD 100000,persona natural,3,2022-05-28,2022-07-07,20.0,2.0,Avance
+5,2022-06-15,219,22567.0,'cheque',471000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-06-05,2022-09-03,18.0,5.0,Avance
+631,2022-08-26,220,37239.0,'cheque',470000,120 días,Más de USD 100000,persona jurídica,10,2022-08-16,2023-01-25,9.0,18.0,Avance
+632,2022-02-08,221,14132.4,'cheque',240000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-01-29,2022-02-20,11.0,2.0,Avance
+633,2022-07-05,222,5870.4,'transferencia bancaria',135000,60 días,Entre USD 1000 y USD 5000,persona natural,4,2022-06-25,2022-08-15,3.0,17.0,Avance
+634,2022-08-18,223,39712.25,'transferencia bancaria',361000,120 días,Más de USD 100000,persona jurídica,9,2022-08-08,2022-09-04,3.0,9.0,Avance
+635,2022-03-02,225,18375.0,'cheque',287000,30 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-02-20,2022-07-26,12.0,13.0,Avance
+2,2022-01-03,226,10904.38,'cheque',124000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2021-12-24,2022-04-07,13.0,8.0,Avance
+637,2022-01-31,227,14349.0,'cheque',256000,60 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-01-21,2022-02-06,8.0,2.0,Avance
+638,2022-03-08,228,21132.35,'transferencia bancaria',480000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-02-26,2022-04-27,15.0,4.0,Avance
+639,2022-06-26,229,20143.0,'transferencia bancaria',325000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-06-16,2022-10-26,12.0,11.0,Avance
+640,2022-04-18,230,7469.0,'transferencia bancaria',131000,120 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-04-08,2022-10-23,18.0,11.0,Avance
+641,2022-07-02,232,24758.0,'transferencia bancaria',459000,120 días,Más de USD 100000,persona jurídica,5,2022-06-22,2022-07-07,1.0,15.0,Avance
+642,2022-08-16,233,39565.97,'transferencia bancaria',895000,120 días,Entre USD 5000 y USD 20000,persona natural,4,2022-08-06,2022-11-14,20.0,5.0,Avance
+643,2022-06-28,236,14611.0,'cheque',295000,90 días,Entre USD 20000 y USD 100000,persona jurídica,8,2022-06-18,2022-12-15,18.0,10.0,Avance
+644,2022-07-20,237,5653.5,'transferencia bancaria',145000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-07-10,2022-08-15,9.0,4.0,Avance
+645,2022-01-22,239,18259.59,'cheque',236000,60 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-01-12,2022-01-24,12.0,1.0,Avance
+646,2022-05-27,245,5836.0,'transferencia bancaria',116000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-05-17,2022-05-27,1.0,10.0,Avance
+647,2022-07-03,247,34368.73,'transferencia bancaria',300000,120 días,Más de USD 100000,persona jurídica,9,2022-06-23,2022-08-04,14.0,3.0,Avance
+648,2022-06-20,252,39776.0,'cheque',278000,120 días,Entre USD 5000 y USD 20000,persona natural,3,2022-06-10,2022-09-23,21.0,5.0,Avance
+649,2022-08-03,255,14356.0,'cheque',278000,30 días,Entre USD 20000 y USD 100000,persona natural,5,2022-07-24,2022-08-23,15.0,2.0,Avance
+650,2022-02-16,256,14489.47,'transferencia bancaria',323000,30 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-02-06,2022-07-09,17.0,9.0,Avance
+651,2022-03-03,257,23237.0,'cheque',225000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-02-21,2022-03-14,3.0,7.0,Avance
+2,2022-08-18,258,9598.0,'cheque',68000,120 días,Entre USD 20000 y USD 100000,persona jurídica,1,2022-08-08,2022-11-08,23.0,4.0,Avance
+653,2022-08-27,264,8046.0,'cheque',137000,120 días,Entre USD 1000 y USD 5000,persona natural,3,2022-08-17,2022-11-05,8.0,10.0,Avance
+654,2022-07-17,265,16273.42,'transferencia bancaria',304000,90 días,Entre USD 5000 y USD 20000,persona natural,2,2022-07-07,2022-09-29,14.0,6.0,Avance
+7,2022-03-27,266,491.0,'cheque',12000,60 días,Menos de USD 1000,persona jurídica,1,2022-03-17,2022-08-24,16.0,10.0,Avance
+656,2022-03-21,267,21084.0,'transferencia bancaria',564000,60 días,Entre USD 5000 y USD 20000,persona natural,4,2022-03-11,2022-04-04,3.0,8.0,Avance
+657,2022-06-01,268,9040.0,'cheque',92000,90 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-05-22,2022-08-06,19.0,4.0,Avance
+658,2022-02-01,272,28659.47,'transferencia bancaria',509000,30 días,Entre USD 5000 y USD 20000,persona natural,2,2022-01-22,2022-03-29,22.0,3.0,Avance
+659,2022-05-07,275,23313.0,'cheque',489000,60 días,Más de USD 100000,persona jurídica,9,2022-04-27,2022-05-06,3.0,3.0,Avance
+660,2022-03-04,277,35699.39,'transferencia bancaria',293000,90 días,Entre USD 5000 y USD 20000,persona natural,4,2022-02-22,2022-08-09,21.0,8.0,Avance
+1,2022-08-03,278,18154.69,'transferencia bancaria',232000,90 días,Entre USD 1000 y USD 5000,persona natural,1,2022-07-24,2023-02-18,19.0,11.0,Avance
+662,2022-05-18,280,34233.72,'cheque',483000,30 días,Entre USD 20000 y USD 100000,persona natural,3,2022-05-08,2022-07-22,15.0,5.0,Avance
+663,2022-02-05,281,18987.1,'cheque',130000,90 días,Entre USD 1000 y USD 5000,persona natural,3,2022-01-26,2022-02-13,2.0,9.0,Avance
+664,2022-05-07,283,13919.11,'transferencia bancaria',109000,60 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-04-27,2022-05-07,5.0,2.0,Avance
+665,2022-01-17,286,14816.0,'transferencia bancaria',280000,60 días,Entre USD 1000 y USD 5000,persona natural,5,2022-01-07,2023-01-16,22.0,17.0,Avance
+666,2022-07-22,289,22240.0,'cheque',525000,90 días,Más de USD 100000,persona jurídica,7,2022-07-12,2022-08-07,13.0,2.0,Avance
+667,2022-04-30,292,21685.23,'cheque',352000,120 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-04-20,2022-06-24,13.0,5.0,Avance
+668,2022-07-06,295,19956.0,'transferencia bancaria',201000,30 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-06-26,2022-07-28,4.0,8.0,Avance
+5,2022-01-21,296,22249.42,'cheque',348000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-01-11,2022-02-22,21.0,2.0,Avance
+5,2022-05-06,20,13137.0,'transferencia bancaria',318000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-04-26,2022-07-26,13.0,7.0,Pagada
+671,2022-03-27,21,6028.8,'transferencia bancaria',87000,120 días,Entre USD 1000 y USD 5000,persona natural,5,2022-03-17,2022-06-03,6.0,13.0,Pagada
+672,2022-08-22,22,9464.63,'transferencia bancaria',122000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-08-12,2023-04-21,18.0,14.0,Cobranza
+673,2022-06-06,23,34461.0,'cheque',541000,30 días,Más de USD 100000,persona jurídica,8,2022-05-27,2023-01-02,20.0,11.0,Cobranza
+674,2022-08-30,24,8075.0,'cheque',174000,90 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-08-20,2022-08-28,1.0,8.0,Pagada
+675,2022-07-15,27,26488.0,'transferencia bancaria',399000,90 días,Más de USD 100000,persona jurídica,9,2022-07-05,2022-11-02,12.0,10.0,Cobranza
+676,2022-05-03,28,89000.14,'cheque',775000,30 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-04-23,2022-05-09,16.0,1.0,Pagada
+677,2022-07-04,32,7758.0,'transferencia bancaria',120000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-06-24,2023-05-20,22.0,15.0,Cobranza
+678,2022-07-01,33,12539.73,'cheque',96000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-06-21,2022-10-19,15.0,8.0,Cobranza
+2,2022-03-20,34,20503.53,'cheque',232000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-03-10,2022-05-21,8.0,9.0,Pagada
+680,2022-06-13,36,27980.45,'transferencia bancaria',407000,90 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-06-03,2022-09-19,9.0,12.0,Cobranza
+681,2022-07-17,37,24468.0,'transferencia bancaria',284000,120 días,Entre USD 20000 y USD 100000,persona natural,2,2022-07-07,2022-08-28,13.0,4.0,Pagada
+682,2022-04-28,38,8358.0,'cheque',51000,60 días,Entre USD 20000 y USD 100000,persona natural,4,2022-04-18,2022-05-06,18.0,1.0,Pagada
+683,2022-02-13,40,3887.68,'transferencia bancaria',94000,120 días,Entre USD 1000 y USD 5000,persona natural,3,2022-02-03,2022-04-10,22.0,3.0,Pagada
+684,2022-07-14,43,30550.2,'transferencia bancaria',620000,90 días,Entre USD 20000 y USD 100000,persona jurídica,5,2022-07-04,2022-09-02,5.0,12.0,Cobranza
+685,2022-08-14,45,20260.0,'transferencia bancaria',209000,60 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-08-04,2022-11-07,19.0,5.0,Cobranza
+686,2022-08-16,46,17650.0,'cheque',119000,120 días,Entre USD 20000 y USD 100000,persona natural,4,2022-08-06,2022-08-30,4.0,6.0,Pagada
+687,2022-02-05,47,28633.86,'cheque',346000,60 días,Más de USD 100000,persona jurídica,7,2022-01-26,2022-04-16,20.0,4.0,Pagada
+688,2022-06-17,48,36433.34,'transferencia bancaria',491000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-06-07,2023-03-23,17.0,17.0,Cobranza
+689,2022-07-24,49,29227.0,'cheque',628000,120 días,Más de USD 100000,persona natural,5,2022-07-14,2022-07-15,1.0,1.0,Pagada
+690,2022-07-30,50,11713.24,'transferencia bancaria',188000,60 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-07-20,2022-11-17,12.0,10.0,Cobranza
+691,2022-07-06,51,10528.2,'transferencia bancaria',93000,30 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-06-26,2023-02-01,20.0,11.0,Cobranza
+692,2022-04-14,52,31426.95,'cheque',672000,120 días,Más de USD 100000,persona jurídica,9,2022-04-04,2023-01-01,16.0,17.0,Cobranza
+693,2022-02-20,53,18520.0,'transferencia bancaria',434000,120 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-02-10,2022-04-17,11.0,6.0,Pagada
+694,2022-05-01,55,8059.0,'transferencia bancaria',50000,30 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-04-21,2022-09-08,20.0,7.0,Cobranza
+695,2022-07-06,56,1590.85,'transferencia bancaria',34000,60 días,Entre USD 1000 y USD 5000,persona jurídica,4,2022-06-26,2022-10-14,22.0,5.0,Cobranza
+696,2022-08-27,57,29887.48,'cheque',604000,120 días,Más de USD 100000,persona natural,4,2022-08-17,2022-11-09,12.0,7.0,Cobranza
+697,2022-07-25,58,2074.0,'cheque',49000,60 días,Entre USD 1000 y USD 5000,persona jurídica,7,2022-07-15,2022-11-12,15.0,8.0,Cobranza
+698,2022-06-13,59,23116.27,'cheque',563000,120 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-06-03,2022-12-07,17.0,11.0,Cobranza
+699,2022-03-02,61,25551.0,'transferencia bancaria',662000,120 días,Más de USD 100000,persona jurídica,10,2022-02-20,2022-04-09,4.0,12.0,Pagada
+5,2022-04-22,62,10414.0,'transferencia bancaria',268000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-04-12,2022-10-09,18.0,10.0,Cobranza
+701,2022-03-05,63,32528.0,'cheque',534000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-02-23,2022-08-02,20.0,8.0,Pagada
+702,2022-06-20,66,21650.93,'transferencia bancaria',224000,120 días,Más de USD 100000,persona jurídica,6,2022-06-10,2022-08-27,6.0,13.0,Pagada
+2,2022-07-21,67,8871.0,'transferencia bancaria',136000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-07-11,2022-09-19,14.0,5.0,Cobranza
+704,2022-06-24,75,17458.69,'transferencia bancaria',231000,60 días,Entre USD 1000 y USD 5000,persona natural,4,2022-06-14,2022-09-12,5.0,18.0,Cobranza
+705,2022-07-27,76,75700.19,'cheque',1569000,30 días,Más de USD 100000,persona jurídica,9,2022-07-17,2022-09-12,19.0,3.0,Cobranza
+706,2022-07-30,78,33699.22,'transferencia bancaria',798000,90 días,Más de USD 100000,persona natural,3,2022-07-20,2022-07-22,1.0,2.0,Pagada
+707,2022-03-27,80,26540.0,'cheque',486000,30 días,Más de USD 100000,persona jurídica,7,2022-03-17,2022-04-10,8.0,3.0,Pagada
+708,2022-04-06,82,19654.0,'transferencia bancaria',199000,30 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-03-27,2022-08-09,9.0,15.0,Pagada
+709,2022-08-17,83,29863.0,'transferencia bancaria',536000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-08-07,2022-10-31,17.0,5.0,Cobranza
+710,2022-06-06,88,6756.17,'cheque',105000,30 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-05-27,2023-02-17,19.0,14.0,Cobranza
+5,2022-03-06,89,12647.64,'cheque',334000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-02-24,2022-06-02,7.0,14.0,Pagada
+712,2022-08-23,90,37682.37,'cheque',983000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-08-13,2022-10-24,6.0,12.0,Cobranza
+713,2022-03-05,91,35430.0,'transferencia bancaria',700000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-02-23,2022-03-07,12.0,1.0,Pagada
+714,2022-02-05,92,9756.11,'transferencia bancaria',199000,90 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-01-26,2022-04-20,6.0,14.0,Pagada
+715,2022-02-21,94,18575.73,'cheque',427000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-02-11,2022-12-07,23.0,13.0,Cobranza
+716,2022-07-07,97,21450.0,'transferencia bancaria',172000,90 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-06-27,2022-08-12,23.0,2.0,Pagada
+717,2022-06-01,99,38109.26,'transferencia bancaria',713000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-05-22,2022-08-20,9.0,10.0,Pagada
+2,2022-03-17,100,10899.63,'transferencia bancaria',200000,90 días,Entre USD 20000 y USD 100000,persona natural,1,2022-03-07,2022-09-10,17.0,11.0,Cobranza
+719,2022-07-08,101,23845.35,'transferencia bancaria',613000,120 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-06-28,2022-10-16,11.0,10.0,Cobranza
+720,2022-05-05,103,25731.88,'transferencia bancaria',609000,120 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-04-25,2022-08-13,10.0,11.0,Pagada
+721,2022-08-13,104,3316.26,'transferencia bancaria',34000,60 días,Menos de USD 1000,persona jurídica,4,2022-08-03,2022-08-07,4.0,1.0,Pagada
+5,2022-07-26,105,11537.19,'transferencia bancaria',300000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-07-16,2022-08-18,3.0,11.0,Pagada
+2,2022-03-23,106,10551.0,'cheque',134000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-03-13,2022-04-18,3.0,12.0,Pagada
+6,2022-07-16,107,35747.93,'transferencia bancaria',478000,120 días,Más de USD 100000,persona natural,1,2022-07-06,2022-07-29,23.0,1.0,Pagada
+2,2022-02-17,109,9333.22,'cheque',96000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-02-07,2022-03-09,3.0,10.0,Pagada
+726,2022-08-08,110,17088.0,'cheque',154000,120 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-07-29,2023-06-17,19.0,17.0,Cobranza
+727,2022-07-03,118,30553.0,'transferencia bancaria',526000,60 días,Más de USD 100000,persona natural,3,2022-06-23,2023-01-13,12.0,17.0,Cobranza
+728,2022-02-15,119,10619.98,'cheque',194000,120 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-02-05,2022-07-17,18.0,9.0,Pagada
+729,2022-08-04,120,23612.26,'transferencia bancaria',251000,30 días,Más de USD 100000,persona jurídica,7,2022-07-25,2023-03-10,12.0,19.0,Cobranza
+730,2022-03-28,121,21566.0,'transferencia bancaria',528000,60 días,Entre USD 20000 y USD 100000,persona natural,5,2022-03-18,2022-10-13,19.0,11.0,Cobranza
+731,2022-07-03,125,18549.19,'cheque',453000,60 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-06-23,2022-09-15,12.0,7.0,Cobranza
+732,2022-07-16,134,31646.0,'transferencia bancaria',730000,120 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-07-06,2022-07-20,1.0,14.0,Pagada
+733,2022-02-07,135,26123.77,'transferencia bancaria',247000,90 días,Más de USD 100000,persona jurídica,9,2022-01-28,2022-02-15,18.0,1.0,Pagada
+734,2022-02-07,137,28209.78,'cheque',236000,120 días,Entre USD 20000 y USD 100000,persona jurídica,9,2022-01-28,2022-05-13,7.0,15.0,Pagada
+735,2022-07-01,138,27415.91,'transferencia bancaria',544000,30 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-06-21,2023-03-18,18.0,15.0,Cobranza
+736,2022-05-23,139,9482.6,'transferencia bancaria',95000,60 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-05-13,2022-07-04,4.0,13.0,Pagada
+2,2022-04-23,148,33811.85,'transferencia bancaria',832000,30 días,Entre USD 20000 y USD 100000,persona natural,1,2022-04-13,2022-05-01,1.0,18.0,Pagada
+738,2022-07-23,150,20712.11,'cheque',444000,90 días,Más de USD 100000,persona jurídica,10,2022-07-13,2023-04-19,20.0,14.0,Cobranza
+739,2022-04-02,152,4581.57,'transferencia bancaria',68000,60 días,Entre USD 1000 y USD 5000,persona jurídica,10,2022-03-23,2022-05-08,23.0,2.0,Pagada
+740,2022-03-03,157,34970.0,'transferencia bancaria',412000,30 días,Más de USD 100000,persona jurídica,8,2022-02-21,2023-01-10,19.0,17.0,Cobranza
+741,2022-05-04,159,16062.88,'cheque',420000,60 días,Entre USD 20000 y USD 100000,persona natural,4,2022-04-24,2022-09-07,8.0,17.0,Cobranza
+742,2022-03-18,162,13914.95,'cheque',170000,30 días,Entre USD 1000 y USD 5000,persona jurídica,8,2022-03-08,2022-11-27,22.0,12.0,Cobranza
+743,2022-06-08,163,29531.33,'cheque',692000,120 días,Más de USD 100000,persona natural,4,2022-05-29,2022-07-24,14.0,4.0,Pagada
+1,2022-03-27,164,7424.0,'cheque',98000,120 días,Entre USD 1000 y USD 5000,persona natural,1,2022-03-17,2022-07-05,11.0,10.0,Pagada
+745,2022-03-01,165,5509.0,'transferencia bancaria',89000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-02-19,2022-03-21,6.0,5.0,Pagada
+2,2022-02-03,168,39925.0,'cheque',507000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-01-24,2022-07-19,11.0,16.0,Pagada
+6,2022-08-08,171,21147.46,'cheque',368000,90 días,Más de USD 100000,persona natural,1,2022-07-29,2022-10-13,4.0,19.0,Cobranza
+748,2022-07-25,172,2979.0,'transferencia bancaria',51000,60 días,Entre USD 1000 y USD 5000,persona natural,2,2022-07-15,2023-08-10,23.0,17.0,Cobranza
+749,2022-08-13,176,33193.0,'cheque',657000,120 días,Más de USD 100000,persona jurídica,5,2022-08-03,2022-08-13,5.0,2.0,Pagada
+750,2022-02-02,179,29664.11,'transferencia bancaria',749000,120 días,Más de USD 100000,persona jurídica,9,2022-01-23,2022-06-16,9.0,16.0,Pagada
+751,2022-05-18,181,10983.0,'cheque',221000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-05-08,2022-06-05,4.0,7.0,Pagada
+752,2022-07-14,182,7614.12,'transferencia bancaria',68000,90 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-07-04,2022-11-01,10.0,12.0,Cobranza
+753,2022-06-20,184,3669.1,'cheque',86000,60 días,Entre USD 1000 y USD 5000,persona jurídica,9,2022-06-10,2022-11-19,9.0,18.0,Cobranza
+754,2022-07-07,187,6742.0,'cheque',118000,90 días,Entre USD 1000 y USD 5000,persona natural,2,2022-06-27,2022-07-03,3.0,2.0,Pagada
+755,2022-07-15,191,25309.52,'transferencia bancaria',512000,60 días,Más de USD 100000,persona natural,4,2022-07-05,2023-05-05,19.0,16.0,Cobranza
+756,2022-07-07,193,33647.0,'transferencia bancaria',653000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-06-27,2022-09-15,20.0,4.0,Cobranza
+757,2022-07-26,194,28583.52,'transferencia bancaria',350000,30 días,Entre USD 5000 y USD 20000,persona natural,3,2022-07-16,2022-09-24,7.0,10.0,Cobranza
+1,2022-07-27,195,15556.98,'transferencia bancaria',300000,90 días,Entre USD 1000 y USD 5000,persona natural,1,2022-07-17,2023-01-13,18.0,10.0,Cobranza
+5,2022-08-18,196,13168.0,'cheque',352000,60 días,Entre USD 5000 y USD 20000,persona natural,1,2022-08-08,2022-11-06,18.0,5.0,Cobranza
+760,2022-05-15,198,13510.0,'cheque',317000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-05-05,2022-07-24,8.0,10.0,Pagada
+761,2022-07-04,201,20371.0,'transferencia bancaria',471000,120 días,Más de USD 100000,persona jurídica,6,2022-06-24,2022-09-01,23.0,3.0,Cobranza
+762,2022-07-15,202,31608.99,'transferencia bancaria',486000,90 días,Más de USD 100000,persona natural,2,2022-07-05,2022-07-25,10.0,2.0,Pagada
+763,2022-07-22,203,31160.4,'transferencia bancaria',243000,120 días,Más de USD 100000,persona natural,2,2022-07-12,2022-10-16,6.0,16.0,Cobranza
+764,2022-07-07,204,5429.0,'transferencia bancaria',53000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-06-27,2022-10-25,15.0,8.0,Cobranza
+765,2022-07-20,205,369.0,'cheque',7000,120 días,Menos de USD 1000,persona jurídica,4,2022-07-10,2022-10-14,12.0,8.0,Cobranza
+766,2022-03-03,207,5973.0,'transferencia bancaria',41000,90 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-02-21,2022-07-06,9.0,15.0,Pagada
+767,2022-02-02,209,1458.9,'transferencia bancaria',23000,60 días,Menos de USD 1000,persona jurídica,7,2022-01-23,2022-02-04,12.0,1.0,Pagada
+768,2022-04-27,211,34221.24,'cheque',420000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-04-17,2022-06-26,5.0,14.0,Pagada
+769,2022-03-06,212,37422.0,'cheque',452000,120 días,Entre USD 20000 y USD 100000,persona jurídica,8,2022-02-24,2022-05-13,6.0,13.0,Pagada
+770,2022-04-23,217,25189.87,'cheque',629000,30 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-04-13,2022-06-22,14.0,5.0,Pagada
+771,2022-07-08,218,14791.0,'cheque',304000,120 días,Entre USD 20000 y USD 100000,persona natural,3,2022-06-28,2022-08-07,20.0,2.0,Pagada
+5,2022-07-27,219,22567.0,'cheque',471000,120 días,Entre USD 5000 y USD 20000,persona natural,1,2022-07-17,2022-10-15,18.0,5.0,Cobranza
+773,2022-03-06,220,37239.0,'cheque',470000,120 días,Más de USD 100000,persona jurídica,10,2022-02-24,2022-08-05,9.0,18.0,Pagada
+774,2022-04-03,221,14132.4,'cheque',240000,30 días,Entre USD 5000 y USD 20000,persona jurídica,10,2022-03-24,2022-04-15,11.0,2.0,Pagada
+775,2022-02-13,222,5870.4,'transferencia bancaria',135000,60 días,Entre USD 1000 y USD 5000,persona natural,4,2022-02-03,2022-03-26,3.0,17.0,Pagada
+776,2022-03-15,223,39712.25,'transferencia bancaria',361000,120 días,Más de USD 100000,persona jurídica,9,2022-03-05,2022-04-01,3.0,9.0,Pagada
+777,2022-06-14,225,18375.0,'cheque',287000,30 días,Entre USD 5000 y USD 20000,persona jurídica,6,2022-06-04,2022-11-07,12.0,13.0,Cobranza
+2,2022-03-04,226,10904.38,'cheque',124000,60 días,Entre USD 20000 y USD 100000,persona natural,1,2022-02-22,2022-06-06,13.0,8.0,Pagada
+779,2022-04-21,227,14349.0,'cheque',256000,60 días,Entre USD 20000 y USD 100000,persona jurídica,7,2022-04-11,2022-04-27,8.0,2.0,Pagada
+780,2022-05-02,228,21132.35,'transferencia bancaria',480000,90 días,Entre USD 20000 y USD 100000,persona natural,4,2022-04-22,2022-06-21,15.0,4.0,Pagada
+781,2022-08-02,229,20143.0,'transferencia bancaria',325000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-07-23,2022-12-02,12.0,11.0,Cobranza
+782,2022-05-17,230,7469.0,'transferencia bancaria',131000,120 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-05-07,2022-11-21,18.0,11.0,Cobranza
+783,2022-06-01,232,24758.0,'transferencia bancaria',459000,120 días,Más de USD 100000,persona jurídica,5,2022-05-22,2022-06-06,1.0,15.0,Pagada
+784,2022-03-14,233,39565.97,'transferencia bancaria',895000,120 días,Entre USD 5000 y USD 20000,persona natural,4,2022-03-04,2022-06-12,20.0,5.0,Pagada
+785,2022-07-23,236,14611.0,'cheque',295000,90 días,Entre USD 20000 y USD 100000,persona jurídica,8,2022-07-13,2023-01-09,18.0,10.0,Cobranza
+786,2022-03-02,237,5653.5,'transferencia bancaria',145000,120 días,Entre USD 5000 y USD 20000,persona jurídica,9,2022-02-20,2022-03-28,9.0,4.0,Pagada
+787,2022-05-04,239,18259.59,'cheque',236000,60 días,Entre USD 20000 y USD 100000,persona jurídica,10,2022-04-24,2022-05-06,12.0,1.0,Pagada
+788,2022-08-14,245,5836.0,'transferencia bancaria',116000,120 días,Entre USD 20000 y USD 100000,persona jurídica,6,2022-08-04,2022-08-14,1.0,10.0,Pagada
+789,2022-02-13,247,34368.73,'transferencia bancaria',300000,120 días,Más de USD 100000,persona jurídica,9,2022-02-03,2022-03-17,14.0,3.0,Pagada
+790,2022-07-18,252,39776.0,'cheque',278000,120 días,Entre USD 5000 y USD 20000,persona natural,3,2022-07-08,2022-10-21,21.0,5.0,Cobranza
+791,2022-03-27,255,14356.0,'cheque',278000,30 días,Entre USD 20000 y USD 100000,persona natural,5,2022-03-17,2022-04-16,15.0,2.0,Pagada
+792,2022-04-27,256,14489.47,'transferencia bancaria',323000,30 días,Entre USD 1000 y USD 5000,persona jurídica,6,2022-04-17,2022-09-17,17.0,9.0,Cobranza
+793,2022-04-16,257,23237.0,'cheque',225000,60 días,Entre USD 5000 y USD 20000,persona jurídica,8,2022-04-06,2022-04-27,3.0,7.0,Pagada
+2,2022-07-24,258,9598.0,'cheque',68000,120 días,Entre USD 20000 y USD 100000,persona jurídica,1,2022-07-14,2022-10-14,23.0,4.0,Cobranza
+795,2022-02-18,264,8046.0,'cheque',137000,120 días,Entre USD 1000 y USD 5000,persona natural,3,2022-02-08,2022-04-29,8.0,10.0,Pagada
+796,2022-08-14,265,16273.42,'transferencia bancaria',304000,90 días,Entre USD 5000 y USD 20000,persona natural,2,2022-08-04,2022-10-27,14.0,6.0,Cobranza
+7,2022-05-20,266,491.0,'cheque',12000,60 días,Menos de USD 1000,persona jurídica,1,2022-05-10,2022-10-17,16.0,10.0,Cobranza
+798,2022-07-03,267,21084.0,'transferencia bancaria',564000,60 días,Entre USD 5000 y USD 20000,persona natural,4,2022-06-23,2022-07-17,3.0,8.0,Pagada
+799,2022-07-05,268,9040.0,'cheque',92000,90 días,Entre USD 1000 y USD 5000,persona jurídica,5,2022-06-25,2022-09-09,19.0,4.0,Cobranza
+800,2022-05-26,272,28659.47,'transferencia bancaria',509000,30 días,Entre USD 5000 y USD 20000,persona natural,2,2022-05-16,2022-07-21,22.0,3.0,Pagada
+801,2022-08-28,275,23313.0,'cheque',489000,60 días,Más de USD 100000,persona jurídica,9,2022-08-18,2022-08-27,3.0,3.0,Pagada
+802,2022-06-23,277,35699.39,'transferencia bancaria',293000,90 días,Entre USD 5000 y USD 20000,persona natural,4,2022-06-13,2022-11-28,21.0,8.0,Cobranza
+1,2022-07-14,278,18154.69,'transferencia bancaria',232000,90 días,Entre USD 1000 y USD 5000,persona natural,1,2022-07-04,2023-01-29,19.0,11.0,Cobranza
+804,2022-06-16,280,34233.72,'cheque',483000,30 días,Entre USD 20000 y USD 100000,persona natural,3,2022-06-06,2022-08-20,15.0,5.0,Pagada
+805,2022-05-31,281,18987.1,'cheque',130000,90 días,Entre USD 1000 y USD 5000,persona natural,3,2022-05-21,2022-06-08,2.0,9.0,Pagada
+806,2022-06-02,283,13919.11,'transferencia bancaria',109000,60 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-05-23,2022-06-02,5.0,2.0,Pagada
+807,2022-05-03,286,14816.0,'transferencia bancaria',280000,60 días,Entre USD 1000 y USD 5000,persona natural,5,2022-04-23,2023-05-02,22.0,17.0,Cobranza
+808,2022-07-28,289,22240.0,'cheque',525000,90 días,Más de USD 100000,persona jurídica,7,2022-07-18,2022-08-13,13.0,2.0,Pagada
+809,2022-08-06,292,21685.23,'cheque',352000,120 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-07-27,2022-09-30,13.0,5.0,Cobranza
+810,2022-02-25,295,19956.0,'transferencia bancaria',201000,30 días,Entre USD 5000 y USD 20000,persona jurídica,5,2022-02-15,2022-03-19,4.0,8.0,Pagada
+5,2022-05-03,296,22249.42,'cheque',348000,30 días,Entre USD 5000 y USD 20000,persona natural,1,2022-04-23,2022-06-04,21.0,2.0,Pagada
