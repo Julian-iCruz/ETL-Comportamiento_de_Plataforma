@@ -1,7 +1,6 @@
 # Tabla de contenido
 
-1. [Ejecucion Main](#1-ejecucion-main)
-2. [Ejecucion API REST](#2-ejecucion-api-rest)
+[[_TOC_]]
 
 # 1. Ejecucion Main
 Para la ejecución del archivo **main.py** se recomienda crear un entorno de conda con la versión de **Python 3.10.4**, las librerías que son necesaria para su ejecución son:
